@@ -1,0 +1,37 @@
+brand:
+  handle: "@doer_brands"
+  series: "RELATIONAL LEADERSHIP"
+  default_theme: dark        # dark | white (white = ink-friendly for printing)
+  alternate_themes: true     # alternate dark/white across posts
+
+posting:
+  queue_target: 7            # keep ~a week of posts ready for review
+  carousel: true             # quote -> practice -> question (carousels earn saves/shares)
+  verified_ratio: 0.2        # share of posts using a human-verified attributed quote (only if any exist)
+  similarity_limit: 0.55     # reject quotes too similar to anything already used
+
+hashtags:
+  core: ["#relationalleadership", "#leadership", "#leadershipdevelopment"]
+  rotating: ["#teamculture", "#emotionalintelligence", "#servantleadership", "#leadershipcoaching",
+             "#trust", "#listening", "#communication", "#managementtips", "#doerbrands"]
+  rotating_count: 4
+
+cta: "Follow @doer_brands for daily relational leadership."
+
+pillars:
+  - name: Trust
+    idea: "Trust is built through small, kept commitments and consistency between words and actions."
+  - name: Listening
+    idea: "Listening to understand, not to respond; making people feel heard before solving."
+  - name: Curiosity
+    idea: "Genuine interest in people's experience, strengths, and context."
+  - name: Vulnerability
+    idea: "Admitting mistakes and gaps; psychological safety starts with the leader going first."
+  - name: Accountability
+    idea: "High standards held within a caring relationship; clear expectations as kindness."
+  - name: Presence
+    idea: "Undivided attention; being fully there in one-on-ones and everyday moments."
+  - name: Appreciation
+    idea: "Specific, timely recognition that shows people their work matters."
+  - name: Courageous Conversations
+    idea: "Saying the hard thing early, privately, and with care; clarity as kindness."

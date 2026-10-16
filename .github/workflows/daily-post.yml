@@ -1,0 +1,51 @@
+name: 3 - Daily post
+# Runs every day and publishes the next APPROVED post. Also runnable by hand (test with dry_run = true).
+# Secrets needed: IG_USER_ID, IG_ACCESS_TOKEN  (optional: ANTHROPIC_API_KEY)
+on:
+  schedule:
+    - cron: "0 16 * * *"   # 16:00 UTC = 9am Arizona / 12pm US Eastern (EDT). Change the hour to taste.
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only: show what would post, do not publish"
+        type: boolean
+        default: true
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    env:
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      IG_API_HOST: graph.instagram.com
+      PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/queue
+      AUTO_APPROVE: "0"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-liberation
+      - name: Top up the review queue
+        run: python -m rl_studio.cli topup
+      - name: Push images so Instagram can fetch them
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "queue update"
+          git pull --rebase
+          git push
+          sleep 20
+      - name: Publish next approved post
+        # This step FAILS (and GitHub emails you) when no approved post is left. That is your reminder to approve more.
+        run: python -m rl_studio.cli publish ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
+      - name: Save status
+        if: always()
+        run: |
+          git add -A
+          git diff --cached --quiet || git commit -m "post status"
+          git pull --rebase
+          git push

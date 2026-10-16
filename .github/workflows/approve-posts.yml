@@ -1,0 +1,43 @@
+name: 2 - Approve or reject posts
+# After reviewing queue/REVIEW.md, run this to approve (or reject) posts.
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "approve or reject"
+        type: choice
+        options: [approve, reject]
+        default: approve
+      ids:
+        description: 'Post IDs separated by spaces, or the word: all (all = every pending post; approve only)'
+        required: true
+        default: all
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  decide:
+    runs-on: ubuntu-latest
+    env:
+      IDS: ${{ inputs.ids }}
+      ACTION: ${{ inputs.action }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Apply
+        run: |
+          if [ "$IDS" = "all" ]; then
+            [ "$ACTION" = "approve" ] && python -m rl_studio.cli approve --all || echo "Reject needs specific IDs"
+          else
+            for i in $IDS; do python -m rl_studio.cli "$ACTION" "$i"; done
+          fi
+          python -m rl_studio.cli preview
+      - name: Save to repo
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "$ACTION: $IDS"
+          git pull --rebase
+          git push
