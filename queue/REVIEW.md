@@ -19,23 +19,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #managementtips #trust #teamculture
 
-## PENDING | `20261016-6bc446` | Accountability
-
-<img src="20261016-6bc446/slide_1.png" width="240"> <img src="20261016-6bc446/slide_2.png" width="240"> <img src="20261016-6bc446/slide_3.png" width="240">
-
-> High standards and real care can live together.
-> 
-> “Clear expectations are a kindness. Vague ones quietly set people up to fail.”
-> 
-> Try this today: Pick one task you've delegated. Write down what done looks like, by when, and how you'll know. Then share it.
-> 
-> Where have you been vague with someone? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #trust #emotionalintelligence
-
 ## PENDING | `20261016-9dd0d1` | Courageous Conversations
 
 <img src="20261016-9dd0d1/slide_1.png" width="240"> <img src="20261016-9dd0d1/slide_2.png" width="240"> <img src="20261016-9dd0d1/slide_3.png" width="240">
@@ -120,3 +103,20 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #communication #servantleadership #leadershipcoaching
+
+## APPROVED | `20261016-6bc446` | Accountability
+
+<img src="20261016-6bc446/slide_1.png" width="240"> <img src="20261016-6bc446/slide_2.png" width="240"> <img src="20261016-6bc446/slide_3.png" width="240">
+
+> High standards and real care can live together.
+> 
+> “Clear expectations are a kindness. Vague ones quietly set people up to fail.”
+> 
+> Try this today: Pick one task you've delegated. Write down what done looks like, by when, and how you'll know. Then share it.
+> 
+> Where have you been vague with someone? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #trust #emotionalintelligence
