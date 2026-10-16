@@ -19,23 +19,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #managementtips #trust #teamculture
 
-## PENDING | `20261016-5f6bfd` | Listening
-
-<img src="20261016-5f6bfd/slide_1.png" width="240"> <img src="20261016-5f6bfd/slide_2.png" width="240"> <img src="20261016-5f6bfd/slide_3.png" width="240">
-
-> Most people don't need advice. They need to be heard.
-> 
-> “Before you fix it, make sure they feel heard.”
-> 
-> Try this today: Try: 'Let me make sure I understand...' and repeat back what you heard. Ask, 'Did I get that right?' before you offer a solution.
-> 
-> When was the last time you solved too soon? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #trust #listening #doerbrands
-
 ## PENDING | `20261016-9dd0d1` | Courageous Conversations
 
 <img src="20261016-9dd0d1/slide_1.png" width="240"> <img src="20261016-9dd0d1/slide_2.png" width="240"> <img src="20261016-9dd0d1/slide_3.png" width="240">
@@ -120,3 +103,20 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #communication #servantleadership #leadershipcoaching
+
+## APPROVED | `20261016-5f6bfd` | Listening
+
+<img src="20261016-5f6bfd/slide_1.png" width="240"> <img src="20261016-5f6bfd/slide_2.png" width="240"> <img src="20261016-5f6bfd/slide_3.png" width="240">
+
+> Most people don't need advice. They need to be heard.
+> 
+> “Before you fix it, make sure they feel heard.”
+> 
+> Try this today: Try: 'Let me make sure I understand...' and repeat back what you heard. Ask, 'Did I get that right?' before you offer a solution.
+> 
+> When was the last time you solved too soon? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #trust #listening #doerbrands
