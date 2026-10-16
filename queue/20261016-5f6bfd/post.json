@@ -1,6 +1,6 @@
 {
   "id": "20261016-5f6bfd",
-  "status": "approved",
+  "status": "posted",
   "theme": "white",
   "post": {
     "pillar": "Listening",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-16T16:25:59.021742+00:00"
+  "created": "2026-10-16T16:25:59.021742+00:00",
+  "media_id": "18095325389147900",
+  "posted": "2026-10-16T17:22:34.378608+00:00"
 }
