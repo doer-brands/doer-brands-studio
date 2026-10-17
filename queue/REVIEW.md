@@ -104,19 +104,121 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #communication #servantleadership #leadershipcoaching
 
-## APPROVED | `20261016-5f6bfd` | Listening
+## PENDING | `20261017-01c524` | Appreciation
 
-<img src="20261016-5f6bfd/slide_1.png" width="240"> <img src="20261016-5f6bfd/slide_2.png" width="240"> <img src="20261016-5f6bfd/slide_3.png" width="240">
+<img src="20261017-01c524/slide_1.png" width="240"> <img src="20261017-01c524/slide_2.png" width="240"> <img src="20261017-01c524/slide_3.png" width="240">
 
-> Most people don't need advice. They need to be heard.
+> People do better work when they know it matters.
 > 
-> “Before you fix it, make sure they feel heard.”
+> “Catch people doing something right, then tell them exactly what it was.”
 > 
-> Try this today: Try: 'Let me make sure I understand...' and repeat back what you heard. Ask, 'Did I get that right?' before you offer a solution.
+> Try this today: Look for one good behavior today and name it in the moment. Specific and timely beats big and late.
 > 
-> When was the last time you solved too soon? Tell me in the comments.
+> What good work have you noticed but not said? Tell me in the comments.
 > 
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #communication #trust #listening #doerbrands
+> #relationalleadership #leadership #leadershipdevelopment #trust #listening #communication #leadershipcoaching
+
+## PENDING | `20261017-096977` | Courageous Conversations
+
+<img src="20261017-096977/slide_1.png" width="240"> <img src="20261017-096977/slide_2.png" width="240"> <img src="20261017-096977/slide_3.png" width="240">
+
+> Clarity is a form of kindness.
+> 
+> “The conversation you're avoiding is already happening. Just without you.”
+> 
+> Try this today: Schedule the conversation you've been putting off. Decide on one sentence to open it with.
+> 
+> What conversation have you been delaying? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #trust #communication #managementtips #listening
+
+## PENDING | `20261017-50165d` | Presence
+
+<img src="20261017-50165d/slide_1.png" width="240"> <img src="20261017-50165d/slide_2.png" width="240"> <img src="20261017-50165d/slide_3.png" width="240">
+
+> Attention is the rarest gift a leader gives.
+> 
+> “The most underrated leadership skill is full attention.”
+> 
+> Try this today: In your next conversation, put the phone face down out of sight and close the laptop. Give one person your complete attention.
+> 
+> Who deserves your undivided attention today? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #trust #emotionalintelligence #servantleadership
+
+## PENDING | `20261017-926c5f` | Vulnerability
+
+<img src="20261017-926c5f/slide_1.png" width="240"> <img src="20261017-926c5f/slide_2.png" width="240"> <img src="20261017-926c5f/slide_3.png" width="240">
+
+> Going first makes it safe for everyone else.
+> 
+> “Perfection keeps people at a distance. Honesty brings them closer.”
+> 
+> Try this today: Share a real challenge you're facing, not a polished success story, with your team or a peer today.
+> 
+> What are you pretending is fine? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #trust #managementtips #communication #leadershipcoaching
+
+## PENDING | `20261017-b1ff7e` | Trust
+
+<img src="20261017-b1ff7e/slide_1.png" width="240"> <img src="20261017-b1ff7e/slide_2.png" width="240"> <img src="20261017-b1ff7e/slide_3.png" width="240">
+
+> Trust is built in small moments.
+> 
+> “People don't follow your title. They follow how safe they feel around you.”
+> 
+> Try this today: Ask one person: 'What's one thing I could do that would make it easier to be honest with me?' Then thank them, whatever they say.
+> 
+> When did a leader last make you feel safe to speak up? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #servantleadership #managementtips #doerbrands
+
+## PENDING | `20261017-d3b334` | Accountability
+
+<img src="20261017-d3b334/slide_1.png" width="240"> <img src="20261017-d3b334/slide_2.png" width="240"> <img src="20261017-d3b334/slide_3.png" width="240">
+
+> High standards and real care can live together.
+> 
+> “Accountability without relationship is just blame with better manners.”
+> 
+> Try this today: Before your next accountability conversation, spend two minutes on the person: what's going on for them, and how do they see it?
+> 
+> Does your team know you're on their side when you hold the line? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #servantleadership #emotionalintelligence #trust #managementtips
+
+## PENDING | `20261017-fe5a1e` | Listening
+
+<img src="20261017-fe5a1e/slide_1.png" width="240"> <img src="20261017-fe5a1e/slide_2.png" width="240"> <img src="20261017-fe5a1e/slide_3.png" width="240">
+
+> Most people don't need advice. They need to be heard.
+> 
+> “Listening isn't waiting for your turn. It's making room for theirs.”
+> 
+> Try this today: In your next conversation, wait two full seconds after they finish before you respond. Notice what else they add.
+> 
+> Who needs you to listen longer this week? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #teamculture #trust #doerbrands #leadershipcoaching
