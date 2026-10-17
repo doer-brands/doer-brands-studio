@@ -1,0 +1,32 @@
+name: 5 - Verify an attributed quote
+# Only run this AFTER you read the exact wording in the primary source (the book, speech or episode itself).
+on:
+  workflow_dispatch:
+    inputs:
+      number: { description: "Quote number from data/QUOTES.md (the # number)", required: true }
+      your_name: { description: "Your name (recorded as the verifier)", required: true, default: "Jason" }
+      confirm: { description: "Type exactly: I CHECKED THE PRIMARY SOURCE", required: true }
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    env:
+      NUM: ${{ inputs.number }}
+      WHO: ${{ inputs.your_name }}
+      CONFIRM: ${{ inputs.confirm }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: |
+          python -m rl_studio.cli verifyquote "$NUM" --by "$WHO" --confirm "$CONFIRM"
+          python -m rl_studio.cli quotes
+      - run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "verify attributed quote $NUM"
+          git pull --rebase
+          git push

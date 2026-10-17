@@ -15,6 +15,14 @@ writes the caption + hashtags, queues them for your approval, and posts to Insta
 Pillars: Trust, Listening, Curiosity, Vulnerability, Accountability, Presence, Appreciation, Courageous Conversations.
 Edit them in `config.yaml`.
 
+## Lanes (what gets posted)
+| Lane | Share | Themes | Look |
+|---|---|---|---|
+| Relational Leadership | 60% | Trust, Listening, Curiosity, Vulnerability, Accountability, Presence, Appreciation, Courageous Conversations | gold accent (dark) |
+| Doer Brands | 40% | Bold, Empowered, Doer (be bold, be empowered, be a doer; the Man in the Arena) | red accent |
+Change shares and wording in `config.yaml` (`lanes:`). Add your real stories to `data/voice_doer.md` (training, leadership, building the brand):
+the generator may mention personal experiences ONLY if they are written there.
+
 ## Attributed quotes (only when 100% verified)
 Original lines are the default. Real-person quotes are allowed ONLY through a human-verified lane:
 the AI never supplies them from memory, and the system will not post one until you confirm it against the PRIMARY source
@@ -25,6 +33,7 @@ python -m rl_studio.cli addquote --quote "..." --author "..." --source-title "Bo
 python -m rl_studio.cli verifyquote 0 --by Jason    # you must type YES after checking the source
 python -m rl_studio.cli quotes                      # POSTABLE vs BLOCKED
 ```
+Via GitHub (no terminal): run workflow **4 - Add an attributed quote** (adds it BLOCKED), then **5 - Verify** after you check the primary source. See `data/QUOTES.md`.
 Verified quotes mix in at `verified_ratio` (config.yaml, default 20%) and show the author and source on the slide and in the caption.
 The publish step re-checks verification and refuses to post anything that fails.
 

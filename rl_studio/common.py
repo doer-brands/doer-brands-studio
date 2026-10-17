@@ -33,3 +33,11 @@ def write_json(path, obj):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, ensure_ascii=False))
+
+
+def lane_for(cfg, pillar):
+    """Return the lane settings (series, cta, hashtags, ...) for a pillar name."""
+    name = next((p.get("lane", "relational") for p in cfg["pillars"] if p["name"] == pillar), "relational")
+    lane = dict(cfg["lanes"][name])
+    lane["name"] = name
+    return lane

@@ -124,7 +124,7 @@ def main(argv=None):
     for f in ("quote", "author", "source_title", "source_detail", "pillar", "practice", "question"):
         aq.add_argument(f"--{f.replace('_','-')}", required=True)
     aq.add_argument("--source-url", default="")
-    vq = sub.add_parser("verifyquote"); vq.add_argument("index", type=int); vq.add_argument("--by", required=True)
+    vq = sub.add_parser("verifyquote"); vq.add_argument("index", type=int); vq.add_argument("--by", required=True); vq.add_argument("--confirm", default="")
     sub.add_parser("refresh-token")
     args = ap.parse_args(argv)
     QUEUE.mkdir(exist_ok=True)
@@ -144,16 +144,20 @@ def main(argv=None):
         write_json(vf, items)
         print(f"added as #{len(items)-1}, NOT postable until you run: verifyquote {len(items)-1} --by YOURNAME")
     elif args.cmd == "quotes":
+        md = ["# Attributed quotes\n", "POSTABLE = verified by a human against the primary source. BLOCKED = will never post until verified.\n"]
         for i, v in enumerate(read_json(DATA / "verified_quotes.json", [])):
             probs = check_verified(v)
             print(f"#{i} {'POSTABLE' if not probs else 'BLOCKED '} {v['author']}: {v['quote'][:60]}  {probs or ''}")
+            md.append(f"## #{i} {'POSTABLE' if not probs else 'BLOCKED'} | {v['pillar']}\n\n> {v['quote']}\n>\n> \u2014 {v['author']}, *{v['source_title']}*\n\n"
+                      f"- Where: {v['source_detail']}\n- Source text: {v.get('source_url') or '(none yet)'}\n- Machine check: {v.get('machine_matched', 'n/a')}\n")
+        (DATA / "QUOTES.md").write_text("\n".join(md))
     elif args.cmd == "verifyquote":
         vf = DATA / "verified_quotes.json"
         items = read_json(vf, [])
         v = items[args.index]
         print(f"QUOTE : {v['quote']}\nAUTHOR: {v['author']}\nSOURCE: {v['source_title']} ({v['source_detail']}) {v.get('source_url','')}")
-        ans = input("Type YES only if you read this EXACT wording in the primary source (the book/speech/transcript itself, not a quote site): ")
-        if ans.strip() == "YES":
+        ans = args.confirm if args.confirm else input("Type YES only if you read this EXACT wording in the primary source (the book/speech/transcript itself, not a quote site): ")
+        if ans.strip() in ("YES", "I CHECKED THE PRIMARY SOURCE"):
             from datetime import date
             v.update(verified=True, verified_primary_source=True, verified_by=args.by, verified_date=str(date.today()))
             write_json(vf, items)

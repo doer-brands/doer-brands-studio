@@ -1,26 +1,218 @@
 [
-{"pillar":"Trust","quote":"Trust isn't announced. It's accumulated, one kept promise at a time.","practice":"Make one small promise today and keep it exactly. Reliable follow-through in small things is how people learn they can count on you in big ones.","question":"What's one small promise you've let slide?"},
-{"pillar":"Trust","quote":"People don't follow your title. They follow how safe they feel around you.","practice":"Ask one person: 'What's one thing I could do that would make it easier to be honest with me?' Then thank them, whatever they say.","question":"When did a leader last make you feel safe to speak up?"},
-{"pillar":"Trust","quote":"Be the leader whose words and calendar agree.","practice":"Look at your last week. Does your time reflect what you say matters? Move one meeting to protect one person or priority you named.","question":"What does your calendar say you value?"},
-{"pillar":"Listening","quote":"Listening isn't waiting for your turn. It's making room for theirs.","practice":"In your next conversation, wait two full seconds after they finish before you respond. Notice what else they add.","question":"Who needs you to listen longer this week?"},
-{"pillar":"Listening","quote":"The most valuable thing you say today might be a question.","practice":"Swap one piece of advice today for: 'What do you think is the best next step?' Let them do the thinking first.","question":"What question could you ask instead of giving an answer?"},
-{"pillar":"Listening","quote":"Before you fix it, make sure they feel heard.","practice":"Try: 'Let me make sure I understand...' and repeat back what you heard. Ask, 'Did I get that right?' before you offer a solution.","question":"When was the last time you solved too soon?"},
-{"pillar":"Curiosity","quote":"Assume there's something you don't know about the person in front of you. Then go find out.","practice":"Pick one teammate and ask about something outside the task list: what energizes them, what they're proud of, what's hard right now.","question":"What don't you know yet about someone on your team?"},
-{"pillar":"Curiosity","quote":"Curiosity is respect in action.","practice":"When you disagree today, ask 'Help me understand how you see it' before you share your view.","question":"Where could curiosity replace your certainty today?"},
-{"pillar":"Curiosity","quote":"Ask what it's like to work on your team. Then stay quiet long enough to hear the answer.","practice":"In your next one-on-one, ask: 'What's it like to be on this team right now?' Don't defend, explain, or fix. Just take notes.","question":"What would your team say if you asked?"},
-{"pillar":"Vulnerability","quote":"Strong leaders don't hide their gaps. They invite people to help close them.","practice":"Name one thing you're still learning and ask for help from someone on your team.","question":"Where could you ask for help this week?"},
-{"pillar":"Vulnerability","quote":"Say 'I was wrong' first. Watch how fast the room exhales.","practice":"Own one mistake publicly this week: what happened, what you learned, what you'll do differently. Keep it short and specific.","question":"What mistake is worth owning out loud?"},
-{"pillar":"Vulnerability","quote":"Perfection keeps people at a distance. Honesty brings them closer.","practice":"Share a real challenge you're facing, not a polished success story, with your team or a peer today.","question":"What are you pretending is fine?"},
-{"pillar":"Accountability","quote":"Accountability without relationship is just blame with better manners.","practice":"Before your next accountability conversation, spend two minutes on the person: what's going on for them, and how do they see it?","question":"Does your team know you're on their side when you hold the line?"},
-{"pillar":"Accountability","quote":"Hold the standard high and the person higher.","practice":"When someone misses the mark, separate the two out loud: 'The result isn't where it needs to be, and I believe you can get it there.'","question":"Who needs to hear that you believe in them?"},
-{"pillar":"Accountability","quote":"Clear expectations are a kindness. Vague ones quietly set people up to fail.","practice":"Pick one task you've delegated. Write down what done looks like, by when, and how you'll know. Then share it.","question":"Where have you been vague with someone?"},
-{"pillar":"Presence","quote":"The most underrated leadership skill is full attention.","practice":"In your next conversation, put the phone face down out of sight and close the laptop. Give one person your complete attention.","question":"Who deserves your undivided attention today?"},
-{"pillar":"Presence","quote":"Your team will forget what you said long before they forget how present you were.","practice":"Open your next meeting by asking one person a real question about them, and listen to the whole answer.","question":"How present were you in your last conversation?"},
-{"pillar":"Presence","quote":"Five undistracted minutes beat an hour of divided attention.","practice":"Block five minutes with someone today. No screens, no multitasking, no agenda except them.","question":"Who gets your five minutes today?"},
-{"pillar":"Appreciation","quote":"'Great job' fades. 'Here's what you did and what it changed' stays.","practice":"Send one message today: name the specific action, the impact it had, and why it mattered to you.","question":"Who deserves a specific thank-you today?"},
-{"pillar":"Appreciation","quote":"Catch people doing something right, then tell them exactly what it was.","practice":"Look for one good behavior today and name it in the moment. Specific and timely beats big and late.","question":"What good work have you noticed but not said?"},
-{"pillar":"Appreciation","quote":"Everyone wants to know their work matters. Tell them.","practice":"Connect one person's task to the larger outcome it supports. Say it out loud.","question":"Does everyone on your team know why their work matters?"},
-{"pillar":"Courageous Conversations","quote":"Kind and clear aren't opposites. Vague is the unkind option.","practice":"Use this structure: 'Here's what I saw, here's the impact, here's what I'd like to see. What's your take?'","question":"What clear, kind sentence have you been avoiding?"},
-{"pillar":"Courageous Conversations","quote":"The conversation you're avoiding is already happening. Just without you.","practice":"Schedule the conversation you've been putting off. Decide on one sentence to open it with.","question":"What conversation have you been delaying?"},
-{"pillar":"Courageous Conversations","quote":"Say the hard thing early, privately, and with their best interest at heart.","practice":"Choose a private moment within 48 hours of the issue. Start with your intent: 'I'm raising this because I want you to succeed.'","question":"What's one hard thing worth saying this week?"}
+ {
+  "pillar": "Trust",
+  "quote": "Trust isn't announced. It's accumulated, one kept promise at a time.",
+  "practice": "Make one small promise today and keep it exactly. Reliable follow-through in small things is how people learn they can count on you in big ones.",
+  "question": "What's one small promise you've let slide?"
+ },
+ {
+  "pillar": "Trust",
+  "quote": "People don't follow your title. They follow how safe they feel around you.",
+  "practice": "Ask one person: 'What's one thing I could do that would make it easier to be honest with me?' Then thank them, whatever they say.",
+  "question": "When did a leader last make you feel safe to speak up?"
+ },
+ {
+  "pillar": "Trust",
+  "quote": "Be the leader whose words and calendar agree.",
+  "practice": "Look at your last week. Does your time reflect what you say matters? Move one meeting to protect one person or priority you named.",
+  "question": "What does your calendar say you value?"
+ },
+ {
+  "pillar": "Listening",
+  "quote": "Listening isn't waiting for your turn. It's making room for theirs.",
+  "practice": "In your next conversation, wait two full seconds after they finish before you respond. Notice what else they add.",
+  "question": "Who needs you to listen longer this week?"
+ },
+ {
+  "pillar": "Listening",
+  "quote": "The most valuable thing you say today might be a question.",
+  "practice": "Swap one piece of advice today for: 'What do you think is the best next step?' Let them do the thinking first.",
+  "question": "What question could you ask instead of giving an answer?"
+ },
+ {
+  "pillar": "Listening",
+  "quote": "Before you fix it, make sure they feel heard.",
+  "practice": "Try: 'Let me make sure I understand...' and repeat back what you heard. Ask, 'Did I get that right?' before you offer a solution.",
+  "question": "When was the last time you solved too soon?"
+ },
+ {
+  "pillar": "Curiosity",
+  "quote": "Assume there's something you don't know about the person in front of you. Then go find out.",
+  "practice": "Pick one teammate and ask about something outside the task list: what energizes them, what they're proud of, what's hard right now.",
+  "question": "What don't you know yet about someone on your team?"
+ },
+ {
+  "pillar": "Curiosity",
+  "quote": "Curiosity is respect in action.",
+  "practice": "When you disagree today, ask 'Help me understand how you see it' before you share your view.",
+  "question": "Where could curiosity replace your certainty today?"
+ },
+ {
+  "pillar": "Curiosity",
+  "quote": "Ask what it's like to work on your team. Then stay quiet long enough to hear the answer.",
+  "practice": "In your next one-on-one, ask: 'What's it like to be on this team right now?' Don't defend, explain, or fix. Just take notes.",
+  "question": "What would your team say if you asked?"
+ },
+ {
+  "pillar": "Vulnerability",
+  "quote": "Strong leaders don't hide their gaps. They invite people to help close them.",
+  "practice": "Name one thing you're still learning and ask for help from someone on your team.",
+  "question": "Where could you ask for help this week?"
+ },
+ {
+  "pillar": "Vulnerability",
+  "quote": "Say 'I was wrong' first. Watch how fast the room exhales.",
+  "practice": "Own one mistake publicly this week: what happened, what you learned, what you'll do differently. Keep it short and specific.",
+  "question": "What mistake is worth owning out loud?"
+ },
+ {
+  "pillar": "Vulnerability",
+  "quote": "Perfection keeps people at a distance. Honesty brings them closer.",
+  "practice": "Share a real challenge you're facing, not a polished success story, with your team or a peer today.",
+  "question": "What are you pretending is fine?"
+ },
+ {
+  "pillar": "Accountability",
+  "quote": "Accountability without relationship is just blame with better manners.",
+  "practice": "Before your next accountability conversation, spend two minutes on the person: what's going on for them, and how do they see it?",
+  "question": "Does your team know you're on their side when you hold the line?"
+ },
+ {
+  "pillar": "Accountability",
+  "quote": "Hold the standard high and the person higher.",
+  "practice": "When someone misses the mark, separate the two out loud: 'The result isn't where it needs to be, and I believe you can get it there.'",
+  "question": "Who needs to hear that you believe in them?"
+ },
+ {
+  "pillar": "Accountability",
+  "quote": "Clear expectations are a kindness. Vague ones quietly set people up to fail.",
+  "practice": "Pick one task you've delegated. Write down what done looks like, by when, and how you'll know. Then share it.",
+  "question": "Where have you been vague with someone?"
+ },
+ {
+  "pillar": "Presence",
+  "quote": "The most underrated leadership skill is full attention.",
+  "practice": "In your next conversation, put the phone face down out of sight and close the laptop. Give one person your complete attention.",
+  "question": "Who deserves your undivided attention today?"
+ },
+ {
+  "pillar": "Presence",
+  "quote": "Your team will forget what you said long before they forget how present you were.",
+  "practice": "Open your next meeting by asking one person a real question about them, and listen to the whole answer.",
+  "question": "How present were you in your last conversation?"
+ },
+ {
+  "pillar": "Presence",
+  "quote": "Five undistracted minutes beat an hour of divided attention.",
+  "practice": "Block five minutes with someone today. No screens, no multitasking, no agenda except them.",
+  "question": "Who gets your five minutes today?"
+ },
+ {
+  "pillar": "Appreciation",
+  "quote": "'Great job' fades. 'Here's what you did and what it changed' stays.",
+  "practice": "Send one message today: name the specific action, the impact it had, and why it mattered to you.",
+  "question": "Who deserves a specific thank-you today?"
+ },
+ {
+  "pillar": "Appreciation",
+  "quote": "Catch people doing something right, then tell them exactly what it was.",
+  "practice": "Look for one good behavior today and name it in the moment. Specific and timely beats big and late.",
+  "question": "What good work have you noticed but not said?"
+ },
+ {
+  "pillar": "Appreciation",
+  "quote": "Everyone wants to know their work matters. Tell them.",
+  "practice": "Connect one person's task to the larger outcome it supports. Say it out loud.",
+  "question": "Does everyone on your team know why their work matters?"
+ },
+ {
+  "pillar": "Courageous Conversations",
+  "quote": "Kind and clear aren't opposites. Vague is the unkind option.",
+  "practice": "Use this structure: 'Here's what I saw, here's the impact, here's what I'd like to see. What's your take?'",
+  "question": "What clear, kind sentence have you been avoiding?"
+ },
+ {
+  "pillar": "Courageous Conversations",
+  "quote": "The conversation you're avoiding is already happening. Just without you.",
+  "practice": "Schedule the conversation you've been putting off. Decide on one sentence to open it with.",
+  "question": "What conversation have you been delaying?"
+ },
+ {
+  "pillar": "Courageous Conversations",
+  "quote": "Say the hard thing early, privately, and with their best interest at heart.",
+  "practice": "Choose a private moment within 48 hours of the issue. Start with your intent: 'I'm raising this because I want you to succeed.'",
+  "question": "What's one hard thing worth saying this week?"
+ },
+ {
+  "pillar": "Bold",
+  "quote": "Bold isn't loud. It's deciding, then moving before you feel ready.",
+  "practice": "Pick the one thing you've been waiting to feel ready for. Do the first ten minutes of it today.",
+  "question": "What are you waiting to feel ready for?"
+ },
+ {
+  "pillar": "Bold",
+  "quote": "Comfort is a fine place to rest. It's a terrible place to build.",
+  "practice": "Name one task you keep avoiding because it's uncomfortable. Put it on your calendar before bed tonight.",
+  "question": "Where is comfort costing you?"
+ },
+ {
+  "pillar": "Bold",
+  "quote": "Bold people say it out loud, then back it up with the work.",
+  "practice": "Share one real goal with someone today and tell them when you'll update them on it.",
+  "question": "Who needs to hear your goal?"
+ },
+ {
+  "pillar": "Bold",
+  "quote": "Courage is a small decision made over and over until it looks like character.",
+  "practice": "Make one small brave choice today: send the email, ask the question, make the call.",
+  "question": "What small brave choice is waiting for you?"
+ },
+ {
+  "pillar": "Empowered",
+  "quote": "Don't wait for permission. Wait for clarity, then act.",
+  "practice": "If you're waiting on a yes, ask for it today and bring your plan with you.",
+  "question": "What are you waiting for permission to do?"
+ },
+ {
+  "pillar": "Empowered",
+  "quote": "Your power isn't in having every answer. It's in choosing the next step.",
+  "practice": "Write down the smallest next action on your biggest problem. Do it before the day ends.",
+  "question": "What's your next small step?"
+ },
+ {
+  "pillar": "Empowered",
+  "quote": "Empower someone today: give them the problem, your trust, and the room to solve it.",
+  "practice": "Hand off one real decision this week and tell the person you trust their judgment.",
+  "question": "Whose decision are you holding too tightly?"
+ },
+ {
+  "pillar": "Empowered",
+  "quote": "You can't control the outcome. You can control the effort, the attitude, and the next rep.",
+  "practice": "At your next setback, ask what's in your control right now. Act only on that.",
+  "question": "What's in your control today?"
+ },
+ {
+  "pillar": "Doer",
+  "quote": "Ideas feel like progress. Only action is.",
+  "practice": "Turn one idea you've been carrying into a first action, with a time on your calendar.",
+  "question": "Which idea has been waiting the longest?"
+ },
+ {
+  "pillar": "Doer",
+  "quote": "Training doesn't care about your mood. Show up anyway and let the work do the talking.",
+  "practice": "Do your planned workout or task at the planned time today, even if it's a shorter version.",
+  "question": "What would showing up look like today?"
+ },
+ {
+  "pillar": "Doer",
+  "quote": "Doers aren't fearless. They're willing to start while afraid.",
+  "practice": "Start the thing you've been avoiding and give it five honest minutes before you decide anything.",
+  "question": "What would you start if fear weren't in charge?"
+ },
+ {
+  "pillar": "Doer",
+  "quote": "Every business and every finish line starts the same way: with a first step nobody applauds.",
+  "practice": "Take one unglamorous first step on a goal today and don't wait for an audience.",
+  "question": "What unglamorous step are you avoiding?"
+ }
 ]

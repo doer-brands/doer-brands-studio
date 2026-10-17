@@ -6,7 +6,7 @@ import random
 import re
 from collections import Counter
 
-from .common import DATA, read_json, write_json
+from .common import DATA, lane_for, read_json, write_json
 from .quality import check, check_verified
 
 SYSTEM = """You write short, original relational-leadership posts for Instagram for Jason, \
@@ -20,7 +20,8 @@ NON-NEGOTIABLE RULES
 5. Quote: 8-24 words, one idea, memorable rhythm, no hashtags/emojis.
 6. NEVER write a quote attributed to a real person. Attributed quotes come only from a human-verified file.
 6b. Practice: 1-3 sentences, a concrete action for today. Question: one short reflective question.
-7. Relational leadership = leadership built on trust, connection and care, with high standards.
+7. Follow the lane description given in the request (relational leadership OR the Doer Brands mission: be bold, be empowered, be a doer).
+8. Personal experience: mention Jason's own training, business or life experiences ONLY if they appear in the voice notes. Otherwise write in a universal second-person voice. Never invent personal facts, results, or credentials.
 Return ONLY valid JSON."""
 
 
@@ -45,8 +46,9 @@ def _ask(client, system, user, max_tokens=2000):
     return json.loads(m.group(1))
 
 
-def llm_candidates(client, pillar, recent, voice, k=5):
-    user = f"""Pillar: {pillar['name']} ({pillar['idea']})
+def llm_candidates(client, pillar, recent, voice, lane_desc="", k=5):
+    user = f"""Lane: {lane_desc}
+Pillar: {pillar['name']} ({pillar['idea']})
 
 Jason's voice and true stories (use only as flavor; never invent new personal facts):
 {voice}
@@ -76,16 +78,26 @@ def llm_critic(client, cands):
 
 
 def pick_pillars(cfg, history, n):
-    names = [p["name"] for p in cfg["pillars"]]
+    """Balance lanes by their weights, then rotate evenly through each lane's pillars."""
+    pil = {p["name"]: p.get("lane", "relational") for p in cfg["pillars"]}
     counts = Counter(h.get("pillar") for h in history)
-    order = sorted(names, key=lambda x: (counts[x], random.random()))
-    return [order[i % len(order)] for i in range(n)]
+    lane_counts = Counter(pil.get(h.get("pillar"), "relational") for h in history)
+    out = []
+    for i in range(n):
+        total = sum(lane_counts.values()) + 1
+        lane = max(cfg["lanes"], key=lambda l: cfg["lanes"][l]["weight"] * total - lane_counts[l] + random.random() * 0.01)
+        names = [p for p, l in pil.items() if l == lane]
+        pick = min(names, key=lambda x: (counts[x], random.random()))
+        out.append(pick)
+        counts[pick] += 1
+        lane_counts[lane] += 1
+    return out
 
 
 def make_posts(cfg, n, source="auto"):
     history = read_json(DATA / "history.json", [])
     bank = read_json(DATA / "quote_bank.json", [])
-    voice = (DATA / "voice.md").read_text() if (DATA / "voice.md").exists() else ""
+    voice = "\n".join((DATA / f).read_text() for f in ("voice.md", "voice_doer.md") if (DATA / f).exists())
     used = [h["quote"] for h in history]
     limit = cfg["posting"]["similarity_limit"]
     client = _client() if source in ("auto", "llm") else None
@@ -103,7 +115,7 @@ def make_posts(cfg, n, source="auto"):
             name = v["pillar"]
         if post is None and client:
             try:
-                good = [c for c in llm_candidates(client, pillars[name], used, voice)
+                good = [c for c in llm_candidates(client, pillars[name], used, voice, lane_for(cfg, name)["description"])
                         if not check(c, used, limit)]
                 if good:
                     post = llm_critic(client, good)

@@ -3,6 +3,7 @@ Two themes: dark (bold) and white (clean / ink-friendly)."""
 import glob
 from pathlib import Path
 
+from .common import lane_for
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1080, 1350
@@ -48,8 +49,10 @@ def _fit(d, text, patterns, max_size, min_size, box_w, box_h, spacing=1.25):
     return f, _wrap(d, text, f, box_w), min_size
 
 
-def _frame(theme, label, idx, total, handle):
-    t = THEMES[theme]
+def _frame(theme, label, idx, total, handle, accent=None):
+    t = dict(THEMES[theme])
+    if accent and theme == "dark":
+        t["accent"] = tuple(accent)
     im = Image.new("RGB", (W, H), t["bg"])
     d = ImageDraw.Draw(im)
     d.rectangle([PAD, 96, PAD + 90, 104], fill=t["accent"])
@@ -75,18 +78,19 @@ def _block(d, t, text, patterns, max_size, min_size, top, bottom, color=None, al
 def render_post(post, cfg, theme, outdir):
     outdir = Path(outdir)
     outdir.mkdir(parents=True, exist_ok=True)
-    handle, series = cfg["brand"]["handle"], cfg["brand"]["series"]
+    lane = lane_for(cfg, post["pillar"])
+    handle, series, accent = cfg["brand"]["handle"], lane["series"], lane.get("accent_dark")
     carousel = cfg["posting"]["carousel"]
     total = 3 if carousel else 1
     paths = []
 
-    im, d, t = _frame(theme, f"{series}  |  {post['pillar']}", 0, total, handle)
+    im, d, t = _frame(theme, f"{series}  |  {post['pillar']}", 0, total, handle, accent)
     q = f"“{post['quote']}”"
     attr = post.get("source") == "verified"
-    _block(d, t, q, SERIF, 100, 52, 220, H - 360 if attr else H - 220)
+    _block(d, t, q, SERIF, 100, 52, 220, H - 430 if attr else H - 220)
     if attr:
-        d.text((PAD, H - 340), f"\u2014 {post['author']}", font=_font(SANS_B, 46), fill=t["accent"])
-        d.text((PAD, H - 280), post["source_title"], font=_font(SANS, 34), fill=t["muted"])
+        d.text((PAD, H - 400), f"\u2014 {post['author']}", font=_font(SANS_B, 46), fill=t["accent"])
+        d.text((PAD, H - 340), post["source_title"], font=_font(SANS, 34), fill=t["muted"])
     if carousel:
         d.text((W - PAD - 400, H - 200), "Swipe for the practice", font=_font(SANS_B, 36), fill=t["muted"])
     p = outdir / "slide_1.png"
@@ -94,13 +98,13 @@ def render_post(post, cfg, theme, outdir):
     paths.append(p)
 
     if carousel:
-        im, d, t = _frame(theme, f"{series}  |  Try this today", 1, total, handle)
+        im, d, t = _frame(theme, f"{series}  |  Try this today", 1, total, handle, accent)
         _block(d, t, post["practice"], SANS_B, 58, 36, 220, H - 220)
         p = outdir / "slide_2.png"
         im.save(p)
         paths.append(p)
 
-        im, d, t = _frame(theme, f"{series}  |  Reflect", 2, total, handle)
+        im, d, t = _frame(theme, f"{series}  |  Reflect", 2, total, handle, accent)
         _block(d, t, post["question"], SERIF, 76, 44, 220, 820)
         d.text((PAD, 880), "Answer in the comments.", font=_font(SANS_B, 38), fill=t["accent"])
         d.text((PAD, 940), "Save this. Share it with a leader you respect.", font=_font(SANS, 36), fill=t["muted"])

@@ -1,0 +1,46 @@
+name: 4 - Add an attributed quote (unverified)
+# Adds a quote from a real person as BLOCKED. It cannot post until you run "5 - Verify".
+on:
+  workflow_dispatch:
+    inputs:
+      quote: { description: "Exact quote wording from the source", required: true }
+      author: { description: "Author or speaker", required: true }
+      source_title: { description: "Book / speech / episode title", required: true }
+      source_detail: { description: "Exact location: edition, page, chapter, speech date, or timestamp", required: true }
+      source_url: { description: "Link to the primary text (optional; quote sites are rejected)", required: false, default: "" }
+      pillar:
+        description: "Theme"
+        type: choice
+        options: [Trust, Listening, Curiosity, Vulnerability, Accountability, Presence, Appreciation, Courageous Conversations, Bold, Empowered, Doer]
+      practice: { description: "A 1-3 sentence action for today", required: true }
+      question: { description: "A short reflection question", required: true }
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    env:
+      Q: ${{ inputs.quote }}
+      A: ${{ inputs.author }}
+      ST: ${{ inputs.source_title }}
+      SD: ${{ inputs.source_detail }}
+      SU: ${{ inputs.source_url }}
+      P: ${{ inputs.pillar }}
+      PR: ${{ inputs.practice }}
+      QU: ${{ inputs.question }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: |
+          python -m rl_studio.cli addquote --quote "$Q" --author "$A" --source-title "$ST" --source-detail "$SD" \
+            --source-url "$SU" --pillar "$P" --practice "$PR" --question "$QU"
+          python -m rl_studio.cli quotes
+      - run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "add attributed quote (unverified)"
+          git pull --rebase
+          git push
