@@ -1,0 +1,56 @@
+name: 2b - Move posts back to pending (unapprove)
+# Moves approved (or rejected) posts back to PENDING so they will not post until you approve them again.
+# Posts that were already posted are never touched.
+on:
+  workflow_dispatch:
+    inputs:
+      from_status:
+        description: "Which posts to move back to pending"
+        type: choice
+        options: [approved, rejected]
+        default: approved
+      ids:
+        description: 'Post IDs separated by spaces, or the word: all'
+        required: true
+        default: all
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  unapprove:
+    runs-on: ubuntu-latest
+    env:
+      IDS: ${{ inputs.ids }}
+      FROM: ${{ inputs.from_status }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Move posts back to pending
+        run: |
+          python - <<'PY'
+          import glob, json, os
+          ids = os.environ["IDS"].split()
+          frm = os.environ["FROM"]
+          every = ids == ["all"]
+          n = 0
+          for p in sorted(glob.glob("queue/*/post.json")):
+              d = json.load(open(p))
+              if d["status"] != frm:
+                  continue
+              if every or d["id"] in ids:
+                  d["status"] = "pending"
+                  json.dump(d, open(p, "w"), indent=2, ensure_ascii=False)
+                  n += 1
+                  print("pending:", d["id"])
+          print(n, "post(s) moved back to pending")
+          PY
+          python -m rl_studio.cli preview
+      - name: Save to repo
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "back to pending: $IDS"
+          git pull --rebase
+          git push
