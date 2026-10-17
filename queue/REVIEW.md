@@ -2,6 +2,125 @@
 
 Pending = needs your approval. Approved = will post. Use the **Approve posts** action.
 
+## PENDING | `20261017-2b3138` | Bold
+
+<img src="20261017-2b3138/slide_1.png" width="240"> <img src="20261017-2b3138/slide_2.png" width="240"> <img src="20261017-2b3138/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Comfort is a fine place to rest. It's a terrible place to build.”
+> 
+> Try this today: Name one task you keep avoiding because it's uncomfortable. Put it on your calendar before bed tonight.
+> 
+> Where is comfort costing you? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #showup #endurance #personalgrowth #entrepreneur
+
+## PENDING | `20261017-2f03e3` | Doer
+
+<img src="20261017-2f03e3/slide_1.png" width="240"> <img src="20261017-2f03e3/slide_2.png" width="240"> <img src="20261017-2f03e3/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Every business and every finish line starts the same way: with a first step nobody applauds.”
+> 
+> Try this today: Take one unglamorous first step on a goal today and don't wait for an audience.
+> 
+> What unglamorous step are you avoiding? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #leadership #endurance #consistency #bebold
+
+## PENDING | `20261017-4423e8` | Bold
+
+<img src="20261017-4423e8/slide_1.png" width="240"> <img src="20261017-4423e8/slide_2.png" width="240"> <img src="20261017-4423e8/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Bold people say it out loud, then back it up with the work.”
+> 
+> Try this today: Share one real goal with someone today and tell them when you'll update them on it.
+> 
+> Who needs to hear your goal? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #entrepreneur #bebold #mindset #showup
+
+## PENDING | `20261017-7ca7cf` | Empowered
+
+<img src="20261017-7ca7cf/slide_1.png" width="240"> <img src="20261017-7ca7cf/slide_2.png" width="240"> <img src="20261017-7ca7cf/slide_3.png" width="240">
+
+> You have more say in your next step than you think.
+> 
+> “Your power isn't in having every answer. It's in choosing the next step.”
+> 
+> Try this today: Write down the smallest next action on your biggest problem. Do it before the day ends.
+> 
+> What's your next small step? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #consistency #showup #empowered #discipline
+
+## PENDING | `20261017-b98b90` | Empowered
+
+<img src="20261017-b98b90/slide_1.png" width="240"> <img src="20261017-b98b90/slide_2.png" width="240"> <img src="20261017-b98b90/slide_3.png" width="240">
+
+> You have more say in your next step than you think.
+> 
+> “Don't wait for permission. Wait for clarity, then act.”
+> 
+> Try this today: If you're waiting on a yes, ask for it today and bring your plan with you.
+> 
+> What are you waiting for permission to do? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #endurance #bebold #personalgrowth #leadership
+
+## PENDING | `20261017-c98b02` | Doer
+
+<img src="20261017-c98b02/slide_1.png" width="240"> <img src="20261017-c98b02/slide_2.png" width="240"> <img src="20261017-c98b02/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Doers aren't fearless. They're willing to start while afraid.”
+> 
+> Try this today: Start the thing you've been avoiding and give it five honest minutes before you decide anything.
+> 
+> What would you start if fear weren't in charge? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #personalgrowth #mindset #showup #discipline
+
+## PENDING | `20261017-eb1181` | Doer
+
+<img src="20261017-eb1181/slide_1.png" width="240"> <img src="20261017-eb1181/slide_2.png" width="240"> <img src="20261017-eb1181/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Ideas feel like progress. Only action is.”
+> 
+> Try this today: Turn one idea you've been carrying into a first action, with a time on your calendar.
+> 
+> Which idea has been waiting the longest? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #showup #entrepreneur #endurance #discipline
+
 ## APPROVED | `20261016-50bff1` | Appreciation
 
 <img src="20261016-50bff1/slide_1.png" width="240"> <img src="20261016-50bff1/slide_2.png" width="240"> <img src="20261016-50bff1/slide_3.png" width="240">
