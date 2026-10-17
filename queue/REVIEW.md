@@ -2,6 +2,40 @@
 
 Pending = needs your approval. Approved = will post. Use the **Approve posts** action.
 
+## PENDING | `20261017-016eeb` | Empowered
+
+<img src="20261017-016eeb/slide_1.png" width="240"> <img src="20261017-016eeb/slide_2.png" width="240"> <img src="20261017-016eeb/slide_3.png" width="240">
+
+> You have more say in your next step than you think.
+> 
+> “Empower someone today: give them the problem, your trust, and the room to solve it.”
+> 
+> Try this today: Hand off one real decision this week and tell the person you trust their judgment.
+> 
+> Whose decision are you holding too tightly? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #discipline #empowered #entrepreneur #mindset
+
+## PENDING | `20261017-1e14e0` | Doer
+
+<img src="20261017-1e14e0/slide_1.png" width="240"> <img src="20261017-1e14e0/slide_2.png" width="240"> <img src="20261017-1e14e0/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Training doesn't care about your mood. Show up anyway and let the work do the talking.”
+> 
+> Try this today: Do your planned workout or task at the planned time today, even if it's a shorter version.
+> 
+> What would showing up look like today? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #consistency #showup #endurance #mindset
+
 ## PENDING | `20261017-2b3138` | Bold
 
 <img src="20261017-2b3138/slide_1.png" width="240"> <img src="20261017-2b3138/slide_2.png" width="240"> <img src="20261017-2b3138/slide_3.png" width="240">
@@ -53,6 +87,57 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #entrepreneur #bebold #mindset #showup
 
+## PENDING | `20261017-516ddd` | Curiosity
+
+<img src="20261017-516ddd/slide_1.png" width="240"> <img src="20261017-516ddd/slide_2.png" width="240"> <img src="20261017-516ddd/slide_3.png" width="240">
+
+> The best leaders stay curious about people.
+> 
+> “Assume there's something you don't know about the person in front of you. Then go find out.”
+> 
+> Try this today: Pick one teammate and ask about something outside the task list: what energizes them, what they're proud of, what's hard right now.
+> 
+> What don't you know yet about someone on your team? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #leadershipcoaching #communication #servantleadership
+
+## PENDING | `20261017-545f78` | Empowered
+
+<img src="20261017-545f78/slide_1.png" width="240"> <img src="20261017-545f78/slide_2.png" width="240"> <img src="20261017-545f78/slide_3.png" width="240">
+
+> You have more say in your next step than you think.
+> 
+> “You can't control the outcome. You can control the effort, the attitude, and the next rep.”
+> 
+> Try this today: At your next setback, ask what's in your control right now. Act only on that.
+> 
+> What's in your control today? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #showup #mindset #endurance #bebold
+
+## PENDING | `20261017-6e2d03` | Bold
+
+<img src="20261017-6e2d03/slide_1.png" width="240"> <img src="20261017-6e2d03/slide_2.png" width="240"> <img src="20261017-6e2d03/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Bold isn't loud. It's deciding, then moving before you feel ready.”
+> 
+> Try this today: Pick the one thing you've been waiting to feel ready for. Do the first ten minutes of it today.
+> 
+> What are you waiting to feel ready for? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #consistency #showup #bebold #leadership
+
 ## PENDING | `20261017-7ca7cf` | Empowered
 
 <img src="20261017-7ca7cf/slide_1.png" width="240"> <img src="20261017-7ca7cf/slide_2.png" width="240"> <img src="20261017-7ca7cf/slide_3.png" width="240">
@@ -103,6 +188,40 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
 > #doerbrands #beadoer #maninthearena #personalgrowth #mindset #showup #discipline
+
+## PENDING | `20261017-caf8aa` | Bold
+
+<img src="20261017-caf8aa/slide_1.png" width="240"> <img src="20261017-caf8aa/slide_2.png" width="240"> <img src="20261017-caf8aa/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Courage is a small decision made over and over until it looks like character.”
+> 
+> Try this today: Make one small brave choice today: send the email, ask the question, make the call.
+> 
+> What small brave choice is waiting for you? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #bebold #leadership #showup #mindset
+
+## PENDING | `20261017-ce38a9` | Curiosity
+
+<img src="20261017-ce38a9/slide_1.png" width="240"> <img src="20261017-ce38a9/slide_2.png" width="240"> <img src="20261017-ce38a9/slide_3.png" width="240">
+
+> The best leaders stay curious about people.
+> 
+> “Ask what it's like to work on your team. Then stay quiet long enough to hear the answer.”
+> 
+> Try this today: In your next one-on-one, ask: 'What's it like to be on this team right now?' Don't defend, explain, or fix. Just take notes.
+> 
+> What would your team say if you asked? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #teamculture #trust #communication
 
 ## PENDING | `20261017-eb1181` | Doer
 
