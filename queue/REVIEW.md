@@ -2,7 +2,7 @@
 
 Pending = needs your approval. Approved = will post. Use the **Approve posts** action.
 
-## PENDING | `20261016-50bff1` | Appreciation
+## APPROVED | `20261016-50bff1` | Appreciation
 
 <img src="20261016-50bff1/slide_1.png" width="240"> <img src="20261016-50bff1/slide_2.png" width="240"> <img src="20261016-50bff1/slide_3.png" width="240">
 
@@ -19,7 +19,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #managementtips #trust #teamculture
 
-## PENDING | `20261016-9dd0d1` | Courageous Conversations
+## APPROVED | `20261016-9dd0d1` | Courageous Conversations
 
 <img src="20261016-9dd0d1/slide_1.png" width="240"> <img src="20261016-9dd0d1/slide_2.png" width="240"> <img src="20261016-9dd0d1/slide_3.png" width="240">
 
@@ -36,7 +36,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #managementtips #listening #leadershipcoaching
 
-## PENDING | `20261016-9e737b` | Vulnerability
+## APPROVED | `20261016-9e737b` | Vulnerability
 
 <img src="20261016-9e737b/slide_1.png" width="240"> <img src="20261016-9e737b/slide_2.png" width="240"> <img src="20261016-9e737b/slide_3.png" width="240">
 
@@ -53,7 +53,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #managementtips #emotionalintelligence #doerbrands #servantleadership
 
-## PENDING | `20261016-a325bc` | Trust
+## APPROVED | `20261016-a325bc` | Trust
 
 <img src="20261016-a325bc/slide_1.png" width="240"> <img src="20261016-a325bc/slide_2.png" width="240"> <img src="20261016-a325bc/slide_3.png" width="240">
 
@@ -70,7 +70,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #managementtips #doerbrands #trust
 
-## PENDING | `20261016-a7565f` | Curiosity
+## APPROVED | `20261016-a7565f` | Curiosity
 
 <img src="20261016-a7565f/slide_1.png" width="240"> <img src="20261016-a7565f/slide_2.png" width="240"> <img src="20261016-a7565f/slide_3.png" width="240">
 
@@ -87,7 +87,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #servantleadership #leadershipcoaching #trust #communication
 
-## PENDING | `20261016-c2509e` | Presence
+## APPROVED | `20261016-c2509e` | Presence
 
 <img src="20261016-c2509e/slide_1.png" width="240"> <img src="20261016-c2509e/slide_2.png" width="240"> <img src="20261016-c2509e/slide_3.png" width="240">
 
@@ -104,7 +104,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #communication #servantleadership #leadershipcoaching
 
-## PENDING | `20261017-01c524` | Appreciation
+## APPROVED | `20261017-01c524` | Appreciation
 
 <img src="20261017-01c524/slide_1.png" width="240"> <img src="20261017-01c524/slide_2.png" width="240"> <img src="20261017-01c524/slide_3.png" width="240">
 
@@ -121,7 +121,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #listening #communication #leadershipcoaching
 
-## PENDING | `20261017-096977` | Courageous Conversations
+## APPROVED | `20261017-096977` | Courageous Conversations
 
 <img src="20261017-096977/slide_1.png" width="240"> <img src="20261017-096977/slide_2.png" width="240"> <img src="20261017-096977/slide_3.png" width="240">
 
@@ -138,7 +138,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #communication #managementtips #listening
 
-## PENDING | `20261017-50165d` | Presence
+## APPROVED | `20261017-50165d` | Presence
 
 <img src="20261017-50165d/slide_1.png" width="240"> <img src="20261017-50165d/slide_2.png" width="240"> <img src="20261017-50165d/slide_3.png" width="240">
 
@@ -155,7 +155,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #trust #emotionalintelligence #servantleadership
 
-## PENDING | `20261017-926c5f` | Vulnerability
+## APPROVED | `20261017-926c5f` | Vulnerability
 
 <img src="20261017-926c5f/slide_1.png" width="240"> <img src="20261017-926c5f/slide_2.png" width="240"> <img src="20261017-926c5f/slide_3.png" width="240">
 
@@ -172,7 +172,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #managementtips #communication #leadershipcoaching
 
-## PENDING | `20261017-b1ff7e` | Trust
+## APPROVED | `20261017-b1ff7e` | Trust
 
 <img src="20261017-b1ff7e/slide_1.png" width="240"> <img src="20261017-b1ff7e/slide_2.png" width="240"> <img src="20261017-b1ff7e/slide_3.png" width="240">
 
@@ -189,7 +189,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #servantleadership #managementtips #doerbrands
 
-## PENDING | `20261017-d3b334` | Accountability
+## APPROVED | `20261017-d3b334` | Accountability
 
 <img src="20261017-d3b334/slide_1.png" width="240"> <img src="20261017-d3b334/slide_2.png" width="240"> <img src="20261017-d3b334/slide_3.png" width="240">
 
@@ -206,7 +206,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #servantleadership #emotionalintelligence #trust #managementtips
 
-## PENDING | `20261017-fe5a1e` | Listening
+## APPROVED | `20261017-fe5a1e` | Listening
 
 <img src="20261017-fe5a1e/slide_1.png" width="240"> <img src="20261017-fe5a1e/slide_2.png" width="240"> <img src="20261017-fe5a1e/slide_3.png" width="240">
 
