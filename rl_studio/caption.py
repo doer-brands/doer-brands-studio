@@ -32,6 +32,6 @@ def build_caption(post, cfg):
         f"“{post['quote']}”{attrib(post)}\n\n"
         f"Try this today: {post['practice']}\n\n"
         f"{post['question']} Tell me in the comments.\n\n"
-        f"Save this for your next 1:1 and send it to a leader you respect.\n"
+        f"{lane.get('save_line', 'Save this and share it with someone who needs it.')}\n"
         f"{lane['cta']}\n\n" + " ".join(tags)
     )

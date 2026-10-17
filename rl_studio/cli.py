@@ -47,6 +47,19 @@ def cmd_make(cfg, n):
     cmd_preview()
 
 
+def cmd_rebuild(cfg):
+    """Re-render slides + captions of NOT-yet-posted items with the current config (keeps IDs/status)."""
+    for it in _items():
+        if it["status"] in ("posted",):
+            continue
+        slides = render_post(it["post"], cfg, it["theme"], QUEUE / it["id"])
+        it["slides"] = [s.name for s in slides]
+        it["caption"] = build_caption(it["post"], cfg)
+        _save(it)
+        print("rebuilt", it["id"], it["status"])
+    cmd_preview()
+
+
 def cmd_preview():
     rows = []
     for it in _items():
@@ -119,7 +132,7 @@ def main(argv=None):
     a = sub.add_parser("approve"); a.add_argument("id", nargs="?"); a.add_argument("--all", action="store_true")
     r = sub.add_parser("reject"); r.add_argument("id")
     p = sub.add_parser("publish"); p.add_argument("--dry-run", action="store_true")
-    sub.add_parser("daily"); sub.add_parser("topup"); sub.add_parser("check"); sub.add_parser("quotes");
+    sub.add_parser("daily"); sub.add_parser("topup"); sub.add_parser("check"); sub.add_parser("rebuild"); sub.add_parser("quotes");
     aq = sub.add_parser("addquote")
     for f in ("quote", "author", "source_title", "source_detail", "pillar", "practice", "question"):
         aq.add_argument(f"--{f.replace('_','-')}", required=True)
@@ -164,6 +177,7 @@ def main(argv=None):
             print("verified:", check_verified(v) or "OK, postable")
         else:
             print("not verified")
+    elif args.cmd == "rebuild": cmd_rebuild(cfg)
     elif args.cmd == "check":
         miss = ig.missing_config()
         print("missing:", miss or "none")

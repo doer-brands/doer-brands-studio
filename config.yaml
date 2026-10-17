@@ -64,6 +64,8 @@ lanes:
       - '#managementtips'
       - '#doerbrands'
       rotating_count: 4
+    save_line: Save this for your next 1:1 and send it to a leader you respect.
+    slide_footer: Save this. Share it with a leader you respect.
   doer:
     weight: 0.4
     series: DOER BRANDS
@@ -91,3 +93,5 @@ lanes:
       - '#entrepreneur'
       - '#leadership'
       rotating_count: 4
+    save_line: Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+    slide_footer: Journal on it. Share it with your accountability partner.

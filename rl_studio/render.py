@@ -107,7 +107,11 @@ def render_post(post, cfg, theme, outdir):
         im, d, t = _frame(theme, f"{series}  |  Reflect", 2, total, handle, accent)
         _block(d, t, post["question"], SERIF, 76, 44, 220, 820)
         d.text((PAD, 880), "Answer in the comments.", font=_font(SANS_B, 38), fill=t["accent"])
-        d.text((PAD, 940), "Save this. Share it with a leader you respect.", font=_font(SANS, 36), fill=t["muted"])
+        ff = _font(SANS, 36)
+        y2 = 940
+        for ln in _wrap(d, lane.get("slide_footer", "Save this. Share it with someone who needs it."), ff, W - 2 * PAD):
+            d.text((PAD, y2), ln, font=ff, fill=t["muted"])
+            y2 += 48
         p = outdir / "slide_3.png"
         im.save(p)
         paths.append(p)
