@@ -17,7 +17,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #discipline #empowered #entrepreneur #mindset
+> #doerbrands #beadoer #maninthearena #showup #leadership #personalgrowth #entrepreneur
 
 ## PENDING | `20261017-1e14e0` | Doer
 
@@ -34,7 +34,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #consistency #showup #endurance #mindset
+> #doerbrands #beadoer #maninthearena #bebold #consistency #mindset #personalgrowth
 
 ## PENDING | `20261017-2b3138` | Bold
 
@@ -48,10 +48,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > Where is comfort costing you? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #showup #endurance #personalgrowth #entrepreneur
+> #doerbrands #beadoer #maninthearena #personalgrowth #empowered #endurance #discipline
 
 ## PENDING | `20261017-2f03e3` | Doer
 
@@ -65,10 +65,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > What unglamorous step are you avoiding? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #leadership #endurance #consistency #bebold
+> #doerbrands #beadoer #maninthearena #endurance #empowered #discipline #consistency
 
 ## PENDING | `20261017-4423e8` | Bold
 
@@ -82,10 +82,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > Who needs to hear your goal? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #entrepreneur #bebold #mindset #showup
+> #doerbrands #beadoer #maninthearena #discipline #bebold #mindset #showup
 
 ## PENDING | `20261017-516ddd` | Curiosity
 
@@ -102,7 +102,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #leadershipcoaching #communication #servantleadership
+> #relationalleadership #leadership #leadershipdevelopment #trust #servantleadership #communication #emotionalintelligence
 
 ## PENDING | `20261017-545f78` | Empowered
 
@@ -119,7 +119,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #showup #mindset #endurance #bebold
+> #doerbrands #beadoer #maninthearena #empowered #entrepreneur #personalgrowth #discipline
 
 ## PENDING | `20261017-6e2d03` | Bold
 
@@ -136,7 +136,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #consistency #showup #bebold #leadership
+> #doerbrands #beadoer #maninthearena #leadership #bebold #entrepreneur #consistency
 
 ## PENDING | `20261017-7ca7cf` | Empowered
 
@@ -150,10 +150,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > What's your next small step? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #consistency #showup #empowered #discipline
+> #doerbrands #beadoer #maninthearena #showup #bebold #mindset #endurance
 
 ## PENDING | `20261017-b98b90` | Empowered
 
@@ -167,10 +167,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > What are you waiting for permission to do? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #endurance #bebold #personalgrowth #leadership
+> #doerbrands #beadoer #maninthearena #empowered #personalgrowth #leadership #mindset
 
 ## PENDING | `20261017-c98b02` | Doer
 
@@ -184,10 +184,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > What would you start if fear weren't in charge? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #personalgrowth #mindset #showup #discipline
+> #doerbrands #beadoer #maninthearena #leadership #personalgrowth #entrepreneur #discipline
 
 ## PENDING | `20261017-caf8aa` | Bold
 
@@ -204,7 +204,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #bebold #leadership #showup #mindset
+> #doerbrands #beadoer #maninthearena #discipline #mindset #endurance #entrepreneur
 
 ## PENDING | `20261017-ce38a9` | Curiosity
 
@@ -221,7 +221,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #teamculture #trust #communication
+> #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #listening #managementtips
 
 ## PENDING | `20261017-eb1181` | Doer
 
@@ -235,10 +235,10 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > Which idea has been waiting the longest? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #showup #entrepreneur #endurance #discipline
+> #doerbrands #beadoer #maninthearena #bebold #showup #consistency #leadership
 
 ## APPROVED | `20261016-50bff1` | Appreciation
 
@@ -255,7 +255,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #communication #managementtips #trust #teamculture
+> #relationalleadership #leadership #leadershipdevelopment #trust #leadershipcoaching #managementtips #doerbrands
 
 ## APPROVED | `20261016-9dd0d1` | Courageous Conversations
 
@@ -272,7 +272,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #trust #managementtips #listening #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #communication #teamculture #managementtips
 
 ## APPROVED | `20261016-9e737b` | Vulnerability
 
@@ -289,7 +289,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #managementtips #emotionalintelligence #doerbrands #servantleadership
+> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #teamculture
 
 ## APPROVED | `20261016-a325bc` | Trust
 
@@ -306,7 +306,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #managementtips #doerbrands #trust
+> #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #doerbrands #communication #listening
 
 ## APPROVED | `20261016-a7565f` | Curiosity
 
@@ -323,7 +323,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #servantleadership #leadershipcoaching #trust #communication
+> #relationalleadership #leadership #leadershipdevelopment #trust #communication #emotionalintelligence #listening
 
 ## APPROVED | `20261016-c2509e` | Presence
 
@@ -340,7 +340,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #listening #communication #servantleadership #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #teamculture #managementtips #doerbrands #communication
 
 ## APPROVED | `20261017-01c524` | Appreciation
 
@@ -357,7 +357,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #trust #listening #communication #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #trust #teamculture #listening #managementtips
 
 ## APPROVED | `20261017-096977` | Courageous Conversations
 
@@ -374,7 +374,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #trust #communication #managementtips #listening
+> #relationalleadership #leadership #leadershipdevelopment #managementtips #leadershipcoaching #servantleadership #communication
 
 ## APPROVED | `20261017-50165d` | Presence
 
@@ -391,7 +391,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #trust #emotionalintelligence #servantleadership
+> #relationalleadership #leadership #leadershipdevelopment #communication #emotionalintelligence #managementtips #teamculture
 
 ## APPROVED | `20261017-926c5f` | Vulnerability
 
@@ -408,7 +408,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #trust #managementtips #communication #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #teamculture #leadershipcoaching #managementtips #servantleadership
 
 ## APPROVED | `20261017-b1ff7e` | Trust
 
@@ -425,7 +425,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #communication #servantleadership #managementtips #doerbrands
+> #relationalleadership #leadership #leadershipdevelopment #managementtips #emotionalintelligence #servantleadership #doerbrands
 
 ## APPROVED | `20261017-d3b334` | Accountability
 
@@ -442,7 +442,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #servantleadership #emotionalintelligence #trust #managementtips
+> #relationalleadership #leadership #leadershipdevelopment #managementtips #communication #emotionalintelligence #leadershipcoaching
 
 ## APPROVED | `20261017-fe5a1e` | Listening
 
@@ -459,4 +459,4 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #teamculture #trust #doerbrands #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #doerbrands #trust
