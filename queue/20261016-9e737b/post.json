@@ -1,6 +1,6 @@
 {
   "id": "20261016-9e737b",
-  "status": "approved",
+  "status": "posted",
   "theme": "dark",
   "post": {
     "pillar": "Vulnerability",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-16T03:49:32.673749+00:00"
+  "created": "2026-10-16T03:49:32.673749+00:00",
+  "media_id": "18098232098299692",
+  "posted": "2026-10-19T16:29:47.485581+00:00"
 }
