@@ -36,23 +36,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #communication #teamculture #managementtips
 
-## PENDING | `20261016-9e737b` | Vulnerability
-
-<img src="20261016-9e737b/slide_1.png" width="240"> <img src="20261016-9e737b/slide_2.png" width="240"> <img src="20261016-9e737b/slide_3.png" width="240">
-
-> Going first makes it safe for everyone else.
-> 
-> “Say 'I was wrong' first. Watch how fast the room exhales.”
-> 
-> Try this today: Own one mistake publicly this week: what happened, what you learned, what you'll do differently. Keep it short and specific.
-> 
-> What mistake is worth owning out loud? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #teamculture
-
 ## PENDING | `20261016-a325bc` | Trust
 
 <img src="20261016-a325bc/slide_1.png" width="240"> <img src="20261016-a325bc/slide_2.png" width="240"> <img src="20261016-a325bc/slide_3.png" width="240">
@@ -171,23 +154,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
 > #doerbrands #beadoer #maninthearena #bebold #consistency #mindset #personalgrowth
-
-## PENDING | `20261017-2b3138` | Bold
-
-<img src="20261017-2b3138/slide_1.png" width="240"> <img src="20261017-2b3138/slide_2.png" width="240"> <img src="20261017-2b3138/slide_3.png" width="240">
-
-> Bold is a decision, not a feeling.
-> 
-> “Comfort is a fine place to rest. It's a terrible place to build.”
-> 
-> Try this today: Name one task you keep avoiding because it's uncomfortable. Put it on your calendar before bed tonight.
-> 
-> Where is comfort costing you? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #personalgrowth #empowered #endurance #discipline
 
 ## PENDING | `20261017-2f03e3` | Doer
 
@@ -460,3 +426,37 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #doerbrands #trust
+
+## APPROVED | `20261016-9e737b` | Vulnerability
+
+<img src="20261016-9e737b/slide_1.png" width="240"> <img src="20261016-9e737b/slide_2.png" width="240"> <img src="20261016-9e737b/slide_3.png" width="240">
+
+> Going first makes it safe for everyone else.
+> 
+> “Say 'I was wrong' first. Watch how fast the room exhales.”
+> 
+> Try this today: Own one mistake publicly this week: what happened, what you learned, what you'll do differently. Keep it short and specific.
+> 
+> What mistake is worth owning out loud? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #teamculture
+
+## APPROVED | `20261017-2b3138` | Bold
+
+<img src="20261017-2b3138/slide_1.png" width="240"> <img src="20261017-2b3138/slide_2.png" width="240"> <img src="20261017-2b3138/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Comfort is a fine place to rest. It's a terrible place to build.”
+> 
+> Try this today: Name one task you keep avoiding because it's uncomfortable. Put it on your calendar before bed tonight.
+> 
+> Where is comfort costing you? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #personalgrowth #empowered #endurance #discipline
