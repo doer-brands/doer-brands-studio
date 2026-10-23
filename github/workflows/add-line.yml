@@ -1,0 +1,44 @@
+name: 7 - Add a line to the bank
+# Adds ONE original line (not from a real person) to the quote bank, after the same quality checks used for every post.
+# For quotes from real people use workflows 4 and 5 instead.
+on:
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme"
+        type: choice
+        options: [Bold, Empowered, Doer, Trust, Listening, Curiosity, Vulnerability, Accountability, Presence, Appreciation, Courageous Conversations]
+      quote:
+        description: "Quote: 5-30 words, no numbers, hashtags or links"
+        required: true
+      practice:
+        description: "Try this today: 8-60 words, a specific action"
+        required: true
+      question:
+        description: "Reflection question: 4-25 words"
+        required: true
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    env:
+      THEME: ${{ inputs.theme }}
+      QUOTE: ${{ inputs.quote }}
+      PRACTICE: ${{ inputs.practice }}
+      QUESTION: ${{ inputs.question }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Check and add the line
+        run: python -m rl_studio.cli addbank --theme "$THEME" --quote "$QUOTE" --practice "$PRACTICE" --question "$QUESTION"
+      - name: Save to repo
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "add line to bank ($THEME)"
+          git pull --rebase
+          git push
