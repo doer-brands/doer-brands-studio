@@ -19,7 +19,7 @@ from . import publish as ig
 from .caption import build_caption
 from .common import QUEUE, ROOT, load_config, load_env, read_json, write_json
 from .generate import make_posts
-from .quality import check_verified
+from .quality import check, check_verified
 from .common import DATA
 from .render import render_post
 
@@ -58,6 +58,31 @@ def cmd_rebuild(cfg):
         _save(it)
         print("rebuilt", it["id"], it["status"])
     cmd_preview()
+
+
+def cmd_addbank(cfg, theme, quote, practice, question):
+    """Add one original line to data/quote_bank.json after the same quality checks used for generated posts."""
+    quote, practice, question = quote.strip(), practice.strip(), question.strip()
+    themes = [p["name"] for p in cfg["pillars"]]
+    if theme not in themes:
+        print(f"ERROR: unknown theme '{theme}'. Valid: {', '.join(themes)}")
+        return 1
+    bank_file = DATA / "quote_bank.json"
+    bank = read_json(bank_file, [])
+    history = [h["quote"] for h in read_json(DATA / "history.json", [])]
+    existing = [b["quote"] for b in bank] + history
+    entry = dict(pillar=theme, quote=quote, practice=practice, question=question)
+    problems = check(entry, existing, cfg["posting"]["similarity_limit"])
+    if problems:
+        print("NOT ADDED. Fix these and run again:")
+        for pr in problems:
+            print(" -", pr)
+        return 1
+    bank.append(entry)
+    write_json(bank_file, bank)
+    print(f"ADDED to {theme}: {quote}")
+    print(f"The bank now has {len(bank)} lines ({sum(1 for b in bank if b['pillar'] == theme)} in {theme}).")
+    return 0
 
 
 def cmd_preview():
@@ -138,6 +163,9 @@ def main(argv=None):
         aq.add_argument(f"--{f.replace('_','-')}", required=True)
     aq.add_argument("--source-url", default="")
     vq = sub.add_parser("verifyquote"); vq.add_argument("index", type=int); vq.add_argument("--by", required=True); vq.add_argument("--confirm", default="")
+    ab = sub.add_parser("addbank")
+    for f in ("theme", "quote", "practice", "question"):
+        ab.add_argument(f"--{f}", required=True)
     sub.add_parser("refresh-token")
     args = ap.parse_args(argv)
     QUEUE.mkdir(exist_ok=True)
@@ -178,6 +206,7 @@ def main(argv=None):
         else:
             print("not verified")
     elif args.cmd == "rebuild": cmd_rebuild(cfg)
+    elif args.cmd == "addbank": return cmd_addbank(cfg, args.theme, args.quote, args.practice, args.question)
     elif args.cmd == "check":
         miss = ig.missing_config()
         print("missing:", miss or "none")
