@@ -376,39 +376,124 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #bebold #showup #consistency #leadership
 
-## APPROVED | `20261017-c98b02` | Doer
+## PENDING | `20261023-188047` | Vulnerability
 
-<img src="20261017-c98b02/slide_1.png" width="240"> <img src="20261017-c98b02/slide_2.png" width="240"> <img src="20261017-c98b02/slide_3.png" width="240">
+<img src="20261023-188047/slide_1.png" width="240"> <img src="20261023-188047/slide_2.png" width="240"> <img src="20261023-188047/slide_3.png" width="240">
 
-> Doers start before they feel ready.
+> Going first makes it safe for everyone else.
 > 
-> “Doers aren't fearless. They're willing to start while afraid.”
+> “Strong leaders don't hide their gaps. They invite people to help close them.”
 > 
-> Try this today: Start the thing you've been avoiding and give it five honest minutes before you decide anything.
+> Try this today: Name one thing you're still learning and ask for help from someone on your team.
 > 
-> What would you start if fear weren't in charge? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #leadership #personalgrowth #entrepreneur #discipline
-
-## APPROVED | `20261017-d3b334` | Accountability
-
-<img src="20261017-d3b334/slide_1.png" width="240"> <img src="20261017-d3b334/slide_2.png" width="240"> <img src="20261017-d3b334/slide_3.png" width="240">
-
-> High standards and real care can live together.
-> 
-> “Accountability without relationship is just blame with better manners.”
-> 
-> Try this today: Before your next accountability conversation, spend two minutes on the person: what's going on for them, and how do they see it?
-> 
-> Does your team know you're on their side when you hold the line? Tell me in the comments.
+> Where could you ask for help this week? Tell me in the comments.
 > 
 > Save this for your next 1:1 and send it to a leader you respect.
 > Follow @doer_brands for daily relational leadership.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #managementtips #communication #emotionalintelligence #leadershipcoaching
+> #relationalleadership #leadership #leadershipdevelopment #servantleadership #teamculture #trust #emotionalintelligence
+
+## PENDING | `20261023-2c55af` | Trust
+
+<img src="20261023-2c55af/slide_1.png" width="240"> <img src="20261023-2c55af/slide_2.png" width="240"> <img src="20261023-2c55af/slide_3.png" width="240">
+
+> Trust is built in small moments.
+> 
+> “Trust isn't announced. It's accumulated, one kept promise at a time.”
+> 
+> Try this today: Make one small promise today and keep it exactly. Reliable follow-through in small things is how people learn they can count on you in big ones.
+> 
+> What's one small promise you've let slide? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #listening #servantleadership #leadershipcoaching
+
+## PENDING | `20261023-5530f6` | Doer
+
+<img src="20261023-5530f6/slide_1.png" width="240"> <img src="20261023-5530f6/slide_2.png" width="240"> <img src="20261023-5530f6/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Pushing through, even when things are hard, makes you resilient”
+> 
+> Try this today: The next time you're at your breaking point, take one more step, one more stroke, one more of whatever you're doing.
+> 
+> How can resiliency become part of your everyday routine? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #mindset #showup #consistency #entrepreneur
+
+## PENDING | `20261023-725e08` | Appreciation
+
+<img src="20261023-725e08/slide_1.png" width="240"> <img src="20261023-725e08/slide_2.png" width="240"> <img src="20261023-725e08/slide_3.png" width="240">
+
+> People do better work when they know it matters.
+> 
+> “Everyone wants to know their work matters. Tell them.”
+> 
+> Try this today: Connect one person's task to the larger outcome it supports. Say it out loud.
+> 
+> Does everyone on your team know why their work matters? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #trust #communication #teamculture #emotionalintelligence
+
+## PENDING | `20261023-903dc1` | Presence
+
+<img src="20261023-903dc1/slide_1.png" width="240"> <img src="20261023-903dc1/slide_2.png" width="240"> <img src="20261023-903dc1/slide_3.png" width="240">
+
+> Attention is the rarest gift a leader gives.
+> 
+> “Five undistracted minutes beat an hour of divided attention.”
+> 
+> Try this today: Block five minutes with someone today. No screens, no multitasking, no agenda except them.
+> 
+> Who gets your five minutes today? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #emotionalintelligence
+
+## PENDING | `20261023-9c9494` | Listening
+
+<img src="20261023-9c9494/slide_1.png" width="240"> <img src="20261023-9c9494/slide_2.png" width="240"> <img src="20261023-9c9494/slide_3.png" width="240">
+
+> Most people don't need advice. They need to be heard.
+> 
+> “The most valuable thing you say today might be a question.”
+> 
+> Try this today: Swap one piece of advice today for: 'What do you think is the best next step?' Let them do the thinking first.
+> 
+> What question could you ask instead of giving an answer? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #managementtips #doerbrands #teamculture #trust
+
+## PENDING | `20261023-c9d932` | Courageous Conversations
+
+<img src="20261023-c9d932/slide_1.png" width="240"> <img src="20261023-c9d932/slide_2.png" width="240"> <img src="20261023-c9d932/slide_3.png" width="240">
+
+> Clarity is a form of kindness.
+> 
+> “Kind and clear aren't opposites. Vague is the unkind option.”
+> 
+> Try this today: Use this structure: 'Here's what I saw, here's the impact, here's what I'd like to see. What's your take?'
+> 
+> What clear, kind sentence have you been avoiding? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #trust #emotionalintelligence #listening
 
 ## APPROVED | `20261017-fe5a1e` | Listening
 
