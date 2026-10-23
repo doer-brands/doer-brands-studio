@@ -104,23 +104,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #showup #leadership #personalgrowth #entrepreneur
 
-## PENDING | `20261017-01c524` | Appreciation
-
-<img src="20261017-01c524/slide_1.png" width="240"> <img src="20261017-01c524/slide_2.png" width="240"> <img src="20261017-01c524/slide_3.png" width="240">
-
-> People do better work when they know it matters.
-> 
-> “Catch people doing something right, then tell them exactly what it was.”
-> 
-> Try this today: Look for one good behavior today and name it in the moment. Specific and timely beats big and late.
-> 
-> What good work have you noticed but not said? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #trust #teamculture #listening #managementtips
-
 ## PENDING | `20261017-096977` | Courageous Conversations
 
 <img src="20261017-096977/slide_1.png" width="240"> <img src="20261017-096977/slide_2.png" width="240"> <img src="20261017-096977/slide_3.png" width="240">
@@ -155,23 +138,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #bebold #consistency #mindset #personalgrowth
 
-## PENDING | `20261017-2f03e3` | Doer
-
-<img src="20261017-2f03e3/slide_1.png" width="240"> <img src="20261017-2f03e3/slide_2.png" width="240"> <img src="20261017-2f03e3/slide_3.png" width="240">
-
-> Doers start before they feel ready.
-> 
-> “Every business and every finish line starts the same way: with a first step nobody applauds.”
-> 
-> Try this today: Take one unglamorous first step on a goal today and don't wait for an audience.
-> 
-> What unglamorous step are you avoiding? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #endurance #empowered #discipline #consistency
-
 ## PENDING | `20261017-4423e8` | Bold
 
 <img src="20261017-4423e8/slide_1.png" width="240"> <img src="20261017-4423e8/slide_2.png" width="240"> <img src="20261017-4423e8/slide_3.png" width="240">
@@ -188,23 +154,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
 > #doerbrands #beadoer #maninthearena #discipline #bebold #mindset #showup
-
-## PENDING | `20261017-50165d` | Presence
-
-<img src="20261017-50165d/slide_1.png" width="240"> <img src="20261017-50165d/slide_2.png" width="240"> <img src="20261017-50165d/slide_3.png" width="240">
-
-> Attention is the rarest gift a leader gives.
-> 
-> “The most underrated leadership skill is full attention.”
-> 
-> Try this today: In your next conversation, put the phone face down out of sight and close the laptop. Give one person your complete attention.
-> 
-> Who deserves your undivided attention today? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #emotionalintelligence #managementtips #teamculture
 
 ## PENDING | `20261017-516ddd` | Curiosity
 
@@ -325,23 +274,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #empowered #personalgrowth #leadership #mindset
 
-## PENDING | `20261017-caf8aa` | Bold
-
-<img src="20261017-caf8aa/slide_1.png" width="240"> <img src="20261017-caf8aa/slide_2.png" width="240"> <img src="20261017-caf8aa/slide_3.png" width="240">
-
-> Bold is a decision, not a feeling.
-> 
-> “Courage is a small decision made over and over until it looks like character.”
-> 
-> Try this today: Make one small brave choice today: send the email, ask the question, make the call.
-> 
-> What small brave choice is waiting for you? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #discipline #mindset #endurance #entrepreneur
-
 ## PENDING | `20261017-ce38a9` | Curiosity
 
 <img src="20261017-ce38a9/slide_1.png" width="240"> <img src="20261017-ce38a9/slide_2.png" width="240"> <img src="20261017-ce38a9/slide_3.png" width="240">
@@ -409,23 +341,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #listening #servantleadership #leadershipcoaching
-
-## PENDING | `20261023-5530f6` | Doer
-
-<img src="20261023-5530f6/slide_1.png" width="240"> <img src="20261023-5530f6/slide_2.png" width="240"> <img src="20261023-5530f6/slide_3.png" width="240">
-
-> Doers start before they feel ready.
-> 
-> “Pushing through, even when things are hard, makes you resilient”
-> 
-> Try this today: The next time you're at your breaking point, take one more step, one more stroke, one more of whatever you're doing.
-> 
-> How can resiliency become part of your everyday routine? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #mindset #showup #consistency #entrepreneur
 
 ## PENDING | `20261023-725e08` | Appreciation
 
@@ -495,6 +410,74 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #trust #emotionalintelligence #listening
 
+## APPROVED | `20261017-01c524` | Appreciation
+
+<img src="20261017-01c524/slide_1.png" width="240"> <img src="20261017-01c524/slide_2.png" width="240"> <img src="20261017-01c524/slide_3.png" width="240">
+
+> People do better work when they know it matters.
+> 
+> “Catch people doing something right, then tell them exactly what it was.”
+> 
+> Try this today: Look for one good behavior today and name it in the moment. Specific and timely beats big and late.
+> 
+> What good work have you noticed but not said? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #trust #teamculture #listening #managementtips
+
+## APPROVED | `20261017-2f03e3` | Doer
+
+<img src="20261017-2f03e3/slide_1.png" width="240"> <img src="20261017-2f03e3/slide_2.png" width="240"> <img src="20261017-2f03e3/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Every business and every finish line starts the same way: with a first step nobody applauds.”
+> 
+> Try this today: Take one unglamorous first step on a goal today and don't wait for an audience.
+> 
+> What unglamorous step are you avoiding? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #endurance #empowered #discipline #consistency
+
+## APPROVED | `20261017-50165d` | Presence
+
+<img src="20261017-50165d/slide_1.png" width="240"> <img src="20261017-50165d/slide_2.png" width="240"> <img src="20261017-50165d/slide_3.png" width="240">
+
+> Attention is the rarest gift a leader gives.
+> 
+> “The most underrated leadership skill is full attention.”
+> 
+> Try this today: In your next conversation, put the phone face down out of sight and close the laptop. Give one person your complete attention.
+> 
+> Who deserves your undivided attention today? Tell me in the comments.
+> 
+> Save this for your next 1:1 and send it to a leader you respect.
+> Follow @doer_brands for daily relational leadership.
+> 
+> #relationalleadership #leadership #leadershipdevelopment #communication #emotionalintelligence #managementtips #teamculture
+
+## APPROVED | `20261017-caf8aa` | Bold
+
+<img src="20261017-caf8aa/slide_1.png" width="240"> <img src="20261017-caf8aa/slide_2.png" width="240"> <img src="20261017-caf8aa/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Courage is a small decision made over and over until it looks like character.”
+> 
+> Try this today: Make one small brave choice today: send the email, ask the question, make the call.
+> 
+> What small brave choice is waiting for you? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #discipline #mindset #endurance #entrepreneur
+
 ## APPROVED | `20261017-fe5a1e` | Listening
 
 <img src="20261017-fe5a1e/slide_1.png" width="240"> <img src="20261017-fe5a1e/slide_2.png" width="240"> <img src="20261017-fe5a1e/slide_3.png" width="240">
@@ -511,3 +494,20 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #doerbrands #trust
+
+## APPROVED | `20261023-5530f6` | Doer
+
+<img src="20261023-5530f6/slide_1.png" width="240"> <img src="20261023-5530f6/slide_2.png" width="240"> <img src="20261023-5530f6/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Pushing through, even when things are hard, makes you resilient”
+> 
+> Try this today: The next time you're at your breaking point, take one more step, one more stroke, one more of whatever you're doing.
+> 
+> How can resiliency become part of your everyday routine? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #mindset #showup #consistency #entrepreneur
