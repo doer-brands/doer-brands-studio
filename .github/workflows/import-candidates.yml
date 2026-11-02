@@ -1,6 +1,7 @@
 name: 8 - Import candidate quotes (blocked until verified)
 # Adds every quote in data/quote_candidates.json to your attributed-quotes list as BLOCKED.
-# Quotes already in the list are skipped, and anything you already verified is left untouched.
+# New quotes are added as BLOCKED. Quotes already in the list but NOT yet verified get their citation text refreshed.
+# Anything you already verified is never touched.
 on:
   workflow_dispatch: {}
 concurrency: queue
@@ -21,17 +22,25 @@ jobs:
           cand = json.load(open("data/quote_candidates.json"))
           path = "data/verified_quotes.json"
           cur = json.load(open(path)) if os.path.exists(path) else []
-          have = {c["quote"].strip().lower() for c in cur}
-          added = 0
+          idx = {c["quote"].strip().lower(): i for i, c in enumerate(cur)}
+          added = refreshed = kept = 0
           for c in cand:
-              if c["quote"].strip().lower() in have:
+              key = c["quote"].strip().lower()
+              if key in idx:
+                  old = cur[idx[key]]
+                  if old.get("verified") is True:
+                      kept += 1  # already verified by you: never touched
+                  elif any(old.get(f) != c.get(f) for f in ("author", "source_title", "source_detail", "source_url", "machine_matched", "practice", "question", "pillar")):
+                      for f in ("author", "source_title", "source_detail", "source_url", "machine_matched", "practice", "question", "pillar"):
+                          old[f] = c.get(f, "")
+                      refreshed += 1
                   continue
               c.update(verified=False, verified_primary_source=False, verified_by="", verified_date="")
               cur.append(c)
-              have.add(c["quote"].strip().lower())
+              idx[key] = len(cur) - 1
               added += 1
           json.dump(cur, open(path, "w"), indent=1, ensure_ascii=False)
-          print(f"imported {added} new candidate(s); skipped {len(cand) - added} already present; list now has {len(cur)}")
+          print(f"added {added} new, refreshed {refreshed} unverified, left {kept} verified untouched; list has {len(cur)}")
           PY
           python -m rl_studio.cli quotes > /dev/null
       - name: Save to repo
