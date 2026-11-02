@@ -1,0 +1,343 @@
+# Attributed quotes
+
+POSTABLE = verified by a human against the primary source. BLOCKED = will never post until verified.
+
+## #0 BLOCKED | Doer
+
+> The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly…
+>
+> — Theodore Roosevelt, *Citizenship in a Republic*
+
+- Where: Speech at the Sorbonne, Paris, April 23, 1910 (the 'Man in the Arena' passage)
+- Source text: https://en.wikisource.org/wiki/Citizenship_in_a_Republic
+- Machine check: wording matched to Wikisource transcription; also compare with theodorerooseveltcenter.org
+
+## #1 BLOCKED | Bold
+
+> I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life.
+>
+> — Theodore Roosevelt, *The Strenuous Life*
+
+- Where: Speech before the Hamilton Club, Chicago, April 10, 1899
+- Source text: https://en.wikisource.org/wiki/The_Strenuous_Life
+- Machine check: wording matched to Wikisource transcription
+
+## #2 BLOCKED | Empowered
+
+> Our lack of confidence is not the result of difficulty; the difficulty comes from our lack of confidence.
+>
+> — Seneca, *Moral Letters to Lucilius (Epistulae Morales)*
+
+- Where: Letter 104, section 26 (Gummere translation)
+- Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_104
+- Machine check: wording matched to Gummere translation on Wikisource (popular paraphrases differ; use this wording)
+
+## #3 BLOCKED | Bold
+
+> We suffer more often in imagination than in reality.
+>
+> — Seneca, *Moral Letters to Lucilius (Epistulae Morales)*
+
+- Where: Letter 13, section 4 (Gummere translation)
+- Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13
+- Machine check: wording matched to Gummere translation on Wikisource
+
+## #4 BLOCKED | Doer
+
+> While we are postponing, life speeds by.
+>
+> — Seneca, *Moral Letters to Lucilius (Epistulae Morales)*
+
+- Where: Letter 1, section 3 (Gummere translation)
+- Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
+- Machine check: wording matched to Gummere translation on Wikisource
+
+## #5 BLOCKED | Empowered
+
+> No longer talk at all about the kind of man that a good man ought to be, but be such.
+>
+> — Marcus Aurelius, *Meditations*
+
+- Where: Book X, section 16 (George Long translation)
+- Source text: https://www.gutenberg.org/ebooks/15877
+- Machine check: wording matched to Project Gutenberg #15877 (Long translation)
+
+## #6 BLOCKED | Doer
+
+> In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being.
+>
+> — Marcus Aurelius, *Meditations*
+
+- Where: Book V, section 1 (George Long translation; original punctuation is a double hyphen)
+- Source text: https://www.gutenberg.org/ebooks/15877
+- Machine check: wording matched to Project Gutenberg #15877 (Long translation)
+
+## #7 BLOCKED | Empowered
+
+> Be a goldfish.
+>
+> — Ted Lasso (fictional character), *Ted Lasso*
+
+- Where: Season 1, Episode 3, 'Make Rebecca Great Again' (Apple TV+, 2020). Ted to Sam. ADD THE TIMESTAMP when you verify.
+- Source text: (none yet)
+- Machine check: NOT machine-checked: TV dialogue. You must watch/hear the scene yourself and confirm the exact words
+
+## #8 BLOCKED | Doer
+
+> It may sound trite, but today is the only time you have. It's too late for yesterday. And you can't depend on tomorrow. That's why today matters.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 10 (Kindle location 198). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #9 BLOCKED | Doer
+
+> Hoping for a good future without investing in today is like a farmer waiting for a crop without ever planting any seed.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 12 (Kindle location 226). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #10 BLOCKED | Doer
+
+> The bookends of success are starting and finishing. Decisions help us start. Discipline helps us finish.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 26 (Kindle location 427). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: last three sentences of the highlight on p. 26; the first sentence of that highlight is omitted
+
+## #11 BLOCKED | Doer
+
+> You will never change your life until you change something you do daily.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 19 (Kindle location 319). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #12 BLOCKED | Doer
+
+> Growth comes from making decisions and following through on them.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 10 (Kindle location 189). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #13 BLOCKED | Doer
+
+> Successful people make right decisions early and manage those decisions daily.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 15 (Kindle location 274). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #14 BLOCKED | Doer
+
+> Success may not come to those who don't work hard, but hard work and success are not one and the same.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 5 (Kindle location 128). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #15 BLOCKED | Bold
+
+> The problem is that we want the rewards of success without paying the price.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 4 (Kindle location 104). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #16 BLOCKED | Bold
+
+> Successful people conquer their feelings and form the habit of doing things unsuccessful people do not like to do.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 26 (Kindle location 427). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: this is the first sentence of the p. 26 highlight, used alone
+
+## #17 BLOCKED | Empowered
+
+> The most successful people in life are the ones who settle their critical issues early and manage them daily.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 25 (Kindle location 422). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #18 BLOCKED | Empowered
+
+> Focus on the possibilities, not the problems.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 3, p. 42 (Kindle location 658). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: second sentence of a two-sentence highlight on p. 42; it is a complete sentence in the source
+
+## #19 BLOCKED | Empowered
+
+> Real, sustainable change doesn't happen in a moment. It's a process.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 9 (Kindle location 181). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: the highlight begins mid-sentence with a lowercase 'real'; capitalized to 'Real' for use as a standalone quote
+
+## #20 BLOCKED | Doer
+
+> Ultimately, no one can network himself to success unless he has something to offer in the first place.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 7 (Kindle location 159). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #21 BLOCKED | Appreciation
+
+> You cannot have a bad attitude and encourage others at the same time.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 3, p. 49 (Kindle location 756). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #22 BLOCKED | Trust
+
+> No amount of power, no matter how ruthlessly wielded, can guarantee success.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 7 (Kindle location 151). Publisher/year/edition: CONFIRM from your copy.
+- Source text: (none yet)
+- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+
+## #23 BLOCKED | Empowered
+
+> When a man does not know what harbour he is making for, no wind is the right wind.
+>
+> — Seneca, *Moral Letters to Lucilius*
+
+- Where: Letter 71, section 3 (Richard Gummere translation, 1917)
+- Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71
+- Machine check: wording matched to the Gummere translation on Wikisource
+
+## #24 BLOCKED | Doer
+
+> Lay hold of today's task, and you will not need to depend so much upon tomorrow's.
+>
+> — Seneca, *Moral Letters to Lucilius*
+
+- Where: Letter 1, section 2 (Richard Gummere translation, 1917)
+- Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
+- Machine check: wording matched to Gummere on Wikisource; spelling modernized from 'to-day' and 'to-morrow's', otherwise identical
+
+## #25 BLOCKED | Empowered
+
+> Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.
+>
+> — Marcus Aurelius, *Meditations*
+
+- Where: Book V, section 16 (George Long translation)
+- Source text: https://www.gutenberg.org/ebooks/15877
+- Machine check: wording matched to Project Gutenberg #15877 (Long translation)
+
+## #26 BLOCKED | Empowered
+
+> Take away thy opinion, and then there is taken away the complaint, 'I have been harmed.'
+>
+> — Marcus Aurelius, *Meditations*
+
+- Where: Book IV, section 7 (George Long translation)
+- Source text: https://www.gutenberg.org/ebooks/15877
+- Machine check: wording matched to Project Gutenberg #15877 (Long translation); the quote is the first half of a two-sentence passage
+
+## #27 BLOCKED | Doer
+
+> Far and away the best prize that life offers is the chance to work hard at work worth doing.
+>
+> — Theodore Roosevelt, *State Fair Address, Syracuse, 1903*
+
+- Where: Address to the New York State Agricultural Association (State Fair), Syracuse, NY, September 7, 1903
+- Source text: https://www.presidency.ucsb.edu/documents/address-the-new-york-state-agricultural-association-syracuse-ny
+- Machine check: wording matched to the American Presidency Project transcript (2 versions). NOTE: a popular variant says 'life has to offer'; that wording is NOT in the speech
+
+## #28 BLOCKED | Doer
+
+> Do what you can, with what you've got, where you are.
+>
+> — Squire Bill Widener, quoted by Theodore Roosevelt, *Theodore Roosevelt: An Autobiography*
+
+- Where: Chapter IX, 'Outdoors and Indoors' (1913). Roosevelt calls it 'a bit of homely philosophy, quoted by Squire Bill Widener'
+- Source text: https://www.gutenberg.org/ebooks/3335
+- Machine check: wording matched to Project Gutenberg #3335. Often misattributed to Roosevelt directly; he credits Widener. Decide how you want it credited
+
+## #29 BLOCKED | Bold
+
+> Let us have faith that right makes might, and in that faith, let us, to the end, dare to do our duty as we understand it.
+>
+> — Abraham Lincoln, *Cooper Union Address*
+
+- Where: Cooper Union, New York, February 27, 1860 (Collected Works of Abraham Lincoln, ed. Basler)
+- Source text: https://www.abrahamlincolnonline.org/lincoln/speeches/cooper.htm
+- Machine check: wording matched to abrahamlincolnonline.org transcript (Basler); the source shows it in capitals, set here in normal case. Compare a second source such as the Library of Congress
+
+## #30 BLOCKED | Accountability
+
+> With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in.
+>
+> — Abraham Lincoln, *Second Inaugural Address*
+
+- Where: March 4, 1865
+- Source text: https://en.wikisource.org/wiki/Abraham_Lincoln%27s_Second_Inaugural_Address
+- Machine check: wording matched to Wikisource transcription; compare a second source such as the Library of Congress
+
+## #31 BLOCKED | Courageous Conversations
+
+> We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection.
+>
+> — Abraham Lincoln, *First Inaugural Address*
+
+- Where: March 4, 1861
+- Source text: https://en.wikisource.org/wiki/Abraham_Lincoln%27s_First_Inaugural_Address
+- Machine check: wording matched to Wikisource transcription; compare a second source such as the Library of Congress
+
+## #32 BLOCKED | Bold
+
+> The only thing we have to fear is fear itself.
+>
+> — Franklin D. Roosevelt, *First Inaugural Address*
+
+- Where: March 4, 1933. Full sentence: '...the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.'
+- Source text: https://en.wikisource.org/wiki/Franklin_Roosevelt%27s_First_Inaugural_Address
+- Machine check: wording matched to Wikisource transcription; compare the FDR Presidential Library text. Opening word capitalized; the quote is part of a longer sentence
+
+## #33 BLOCKED | Bold
+
+> We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
+>
+> — John F. Kennedy, *Address at Rice University*
+
+- Where: September 12, 1962, Houston, Texas
+- Source text: https://en.wikisource.org/wiki/We_choose_to_go_to_the_Moon
+- Machine check: wording matched to Wikisource transcription (the first 'We choose to go to the moon' is repeated for emphasis in the speech; this is the version with the full clause). Compare the JFK Library text/audio
