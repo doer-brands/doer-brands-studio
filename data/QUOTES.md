@@ -292,7 +292,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.gutenberg.org/ebooks/3335
 - Machine check: wording matched to Project Gutenberg #3335. Often misattributed to Roosevelt directly; he credits Widener. Decide how you want it credited
 
-## #29 BLOCKED | Bold
+## #29 POSTABLE | Bold
 
 > Let us have faith that right makes might, and in that faith, let us, to the end, dare to do our duty as we understand it.
 >

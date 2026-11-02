@@ -444,10 +444,10 @@
     "practice": "Identify one thing you know is right to do and have been delaying. Take the first step today.",
     "question": "What duty are you daring to do?",
     "machine_matched": "wording matched to abrahamlincolnonline.org transcript (Basler); the source shows it in capitals, set here in normal case. Compare a second source such as the Library of Congress",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in.",
