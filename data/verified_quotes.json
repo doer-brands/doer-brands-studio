@@ -54,10 +54,10 @@
     "practice": "Write down what you're dreading, the most likely outcome, and one thing you can do about it. Then do that one thing.",
     "question": "What are you dreading that may never happen?",
     "machine_matched": "wording matched to Gummere translation on Wikisource",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "While we are postponing, life speeds by.",

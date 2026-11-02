@@ -32,7 +32,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_104
 - Machine check: wording matched to Gummere translation on Wikisource (popular paraphrases differ; use this wording)
 
-## #3 BLOCKED | Bold
+## #3 POSTABLE | Bold
 
 > We suffer more often in imagination than in reality.
 >
