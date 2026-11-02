@@ -2,7 +2,7 @@
 
 Pending = needs your approval. Approved = will post. Use the **Approve posts** action.
 
-## PENDING | `20261016-50bff1` | Appreciation
+## APPROVED | `20261016-50bff1` | Appreciation
 
 <img src="20261016-50bff1/slide_1.png" width="240"> <img src="20261016-50bff1/slide_2.png" width="240"> <img src="20261016-50bff1/slide_3.png" width="240">
 
@@ -19,7 +19,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #leadershipcoaching #managementtips #doerbrands
 
-## PENDING | `20261016-9dd0d1` | Courageous Conversations
+## APPROVED | `20261016-9dd0d1` | Courageous Conversations
 
 <img src="20261016-9dd0d1/slide_1.png" width="240"> <img src="20261016-9dd0d1/slide_2.png" width="240"> <img src="20261016-9dd0d1/slide_3.png" width="240">
 
@@ -36,7 +36,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #communication #teamculture #managementtips
 
-## PENDING | `20261016-a325bc` | Trust
+## APPROVED | `20261016-a325bc` | Trust
 
 <img src="20261016-a325bc/slide_1.png" width="240"> <img src="20261016-a325bc/slide_2.png" width="240"> <img src="20261016-a325bc/slide_3.png" width="240">
 
@@ -53,7 +53,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #doerbrands #communication #listening
 
-## PENDING | `20261016-a7565f` | Curiosity
+## APPROVED | `20261016-a7565f` | Curiosity
 
 <img src="20261016-a7565f/slide_1.png" width="240"> <img src="20261016-a7565f/slide_2.png" width="240"> <img src="20261016-a7565f/slide_3.png" width="240">
 
@@ -70,7 +70,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #communication #emotionalintelligence #listening
 
-## PENDING | `20261016-c2509e` | Presence
+## APPROVED | `20261016-c2509e` | Presence
 
 <img src="20261016-c2509e/slide_1.png" width="240"> <img src="20261016-c2509e/slide_2.png" width="240"> <img src="20261016-c2509e/slide_3.png" width="240">
 
@@ -87,7 +87,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #teamculture #managementtips #doerbrands #communication
 
-## PENDING | `20261017-016eeb` | Empowered
+## APPROVED | `20261017-016eeb` | Empowered
 
 <img src="20261017-016eeb/slide_1.png" width="240"> <img src="20261017-016eeb/slide_2.png" width="240"> <img src="20261017-016eeb/slide_3.png" width="240">
 
@@ -104,7 +104,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #showup #leadership #personalgrowth #entrepreneur
 
-## PENDING | `20261017-096977` | Courageous Conversations
+## APPROVED | `20261017-096977` | Courageous Conversations
 
 <img src="20261017-096977/slide_1.png" width="240"> <img src="20261017-096977/slide_2.png" width="240"> <img src="20261017-096977/slide_3.png" width="240">
 
@@ -121,7 +121,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #managementtips #leadershipcoaching #servantleadership #communication
 
-## PENDING | `20261017-1e14e0` | Doer
+## APPROVED | `20261017-1e14e0` | Doer
 
 <img src="20261017-1e14e0/slide_1.png" width="240"> <img src="20261017-1e14e0/slide_2.png" width="240"> <img src="20261017-1e14e0/slide_3.png" width="240">
 
@@ -138,7 +138,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #bebold #consistency #mindset #personalgrowth
 
-## PENDING | `20261017-4423e8` | Bold
+## APPROVED | `20261017-4423e8` | Bold
 
 <img src="20261017-4423e8/slide_1.png" width="240"> <img src="20261017-4423e8/slide_2.png" width="240"> <img src="20261017-4423e8/slide_3.png" width="240">
 
@@ -155,7 +155,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #discipline #bebold #mindset #showup
 
-## PENDING | `20261017-516ddd` | Curiosity
+## APPROVED | `20261017-516ddd` | Curiosity
 
 <img src="20261017-516ddd/slide_1.png" width="240"> <img src="20261017-516ddd/slide_2.png" width="240"> <img src="20261017-516ddd/slide_3.png" width="240">
 
@@ -172,7 +172,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #servantleadership #communication #emotionalintelligence
 
-## PENDING | `20261017-545f78` | Empowered
+## APPROVED | `20261017-545f78` | Empowered
 
 <img src="20261017-545f78/slide_1.png" width="240"> <img src="20261017-545f78/slide_2.png" width="240"> <img src="20261017-545f78/slide_3.png" width="240">
 
@@ -189,7 +189,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #empowered #entrepreneur #personalgrowth #discipline
 
-## PENDING | `20261017-6e2d03` | Bold
+## APPROVED | `20261017-6e2d03` | Bold
 
 <img src="20261017-6e2d03/slide_1.png" width="240"> <img src="20261017-6e2d03/slide_2.png" width="240"> <img src="20261017-6e2d03/slide_3.png" width="240">
 
@@ -206,7 +206,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #leadership #bebold #entrepreneur #consistency
 
-## PENDING | `20261017-7ca7cf` | Empowered
+## APPROVED | `20261017-7ca7cf` | Empowered
 
 <img src="20261017-7ca7cf/slide_1.png" width="240"> <img src="20261017-7ca7cf/slide_2.png" width="240"> <img src="20261017-7ca7cf/slide_3.png" width="240">
 
@@ -223,7 +223,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #showup #bebold #mindset #endurance
 
-## PENDING | `20261017-926c5f` | Vulnerability
+## APPROVED | `20261017-926c5f` | Vulnerability
 
 <img src="20261017-926c5f/slide_1.png" width="240"> <img src="20261017-926c5f/slide_2.png" width="240"> <img src="20261017-926c5f/slide_3.png" width="240">
 
@@ -240,7 +240,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #teamculture #leadershipcoaching #managementtips #servantleadership
 
-## PENDING | `20261017-b1ff7e` | Trust
+## APPROVED | `20261017-b1ff7e` | Trust
 
 <img src="20261017-b1ff7e/slide_1.png" width="240"> <img src="20261017-b1ff7e/slide_2.png" width="240"> <img src="20261017-b1ff7e/slide_3.png" width="240">
 
@@ -257,7 +257,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #managementtips #emotionalintelligence #servantleadership #doerbrands
 
-## PENDING | `20261017-b98b90` | Empowered
+## APPROVED | `20261017-b98b90` | Empowered
 
 <img src="20261017-b98b90/slide_1.png" width="240"> <img src="20261017-b98b90/slide_2.png" width="240"> <img src="20261017-b98b90/slide_3.png" width="240">
 
@@ -274,7 +274,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #empowered #personalgrowth #leadership #mindset
 
-## PENDING | `20261017-ce38a9` | Curiosity
+## APPROVED | `20261017-ce38a9` | Curiosity
 
 <img src="20261017-ce38a9/slide_1.png" width="240"> <img src="20261017-ce38a9/slide_2.png" width="240"> <img src="20261017-ce38a9/slide_3.png" width="240">
 
@@ -291,7 +291,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #listening #managementtips
 
-## PENDING | `20261017-eb1181` | Doer
+## APPROVED | `20261017-eb1181` | Doer
 
 <img src="20261017-eb1181/slide_1.png" width="240"> <img src="20261017-eb1181/slide_2.png" width="240"> <img src="20261017-eb1181/slide_3.png" width="240">
 
@@ -308,7 +308,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #bebold #showup #consistency #leadership
 
-## PENDING | `20261023-188047` | Vulnerability
+## APPROVED | `20261023-188047` | Vulnerability
 
 <img src="20261023-188047/slide_1.png" width="240"> <img src="20261023-188047/slide_2.png" width="240"> <img src="20261023-188047/slide_3.png" width="240">
 
@@ -325,7 +325,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #servantleadership #teamculture #trust #emotionalintelligence
 
-## PENDING | `20261023-725e08` | Appreciation
+## APPROVED | `20261023-725e08` | Appreciation
 
 <img src="20261023-725e08/slide_1.png" width="240"> <img src="20261023-725e08/slide_2.png" width="240"> <img src="20261023-725e08/slide_3.png" width="240">
 
@@ -342,7 +342,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #trust #communication #teamculture #emotionalintelligence
 
-## PENDING | `20261023-903dc1` | Presence
+## APPROVED | `20261023-903dc1` | Presence
 
 <img src="20261023-903dc1/slide_1.png" width="240"> <img src="20261023-903dc1/slide_2.png" width="240"> <img src="20261023-903dc1/slide_3.png" width="240">
 
@@ -358,88 +358,3 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #emotionalintelligence
-
-## APPROVED | `20261017-fe5a1e` | Listening
-
-<img src="20261017-fe5a1e/slide_1.png" width="240"> <img src="20261017-fe5a1e/slide_2.png" width="240"> <img src="20261017-fe5a1e/slide_3.png" width="240">
-
-> Most people don't need advice. They need to be heard.
-> 
-> “Listening isn't waiting for your turn. It's making room for theirs.”
-> 
-> Try this today: In your next conversation, wait two full seconds after they finish before you respond. Notice what else they add.
-> 
-> Who needs you to listen longer this week? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #doerbrands #trust
-
-## APPROVED | `20261023-2c55af` | Trust
-
-<img src="20261023-2c55af/slide_1.png" width="240"> <img src="20261023-2c55af/slide_2.png" width="240"> <img src="20261023-2c55af/slide_3.png" width="240">
-
-> Trust is built in small moments.
-> 
-> “Trust isn't announced. It's accumulated, one kept promise at a time.”
-> 
-> Try this today: Make one small promise today and keep it exactly. Reliable follow-through in small things is how people learn they can count on you in big ones.
-> 
-> What's one small promise you've let slide? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #emotionalintelligence #listening #servantleadership #leadershipcoaching
-
-## APPROVED | `20261023-5530f6` | Doer
-
-<img src="20261023-5530f6/slide_1.png" width="240"> <img src="20261023-5530f6/slide_2.png" width="240"> <img src="20261023-5530f6/slide_3.png" width="240">
-
-> Doers start before they feel ready.
-> 
-> “Pushing through, even when things are hard, makes you resilient”
-> 
-> Try this today: The next time you're at your breaking point, take one more step, one more stroke, one more of whatever you're doing.
-> 
-> How can resiliency become part of your everyday routine? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #mindset #showup #consistency #entrepreneur
-
-## APPROVED | `20261023-9c9494` | Listening
-
-<img src="20261023-9c9494/slide_1.png" width="240"> <img src="20261023-9c9494/slide_2.png" width="240"> <img src="20261023-9c9494/slide_3.png" width="240">
-
-> Most people don't need advice. They need to be heard.
-> 
-> “The most valuable thing you say today might be a question.”
-> 
-> Try this today: Swap one piece of advice today for: 'What do you think is the best next step?' Let them do the thinking first.
-> 
-> What question could you ask instead of giving an answer? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #managementtips #doerbrands #teamculture #trust
-
-## APPROVED | `20261023-c9d932` | Courageous Conversations
-
-<img src="20261023-c9d932/slide_1.png" width="240"> <img src="20261023-c9d932/slide_2.png" width="240"> <img src="20261023-c9d932/slide_3.png" width="240">
-
-> Clarity is a form of kindness.
-> 
-> “Kind and clear aren't opposites. Vague is the unkind option.”
-> 
-> Try this today: Use this structure: 'Here's what I saw, here's the impact, here's what I'd like to see. What's your take?'
-> 
-> What clear, kind sentence have you been avoiding? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #trust #emotionalintelligence #listening
