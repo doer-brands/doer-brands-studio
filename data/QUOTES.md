@@ -82,7 +82,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: NOT machine-checked: TV dialogue. You must watch/hear the scene yourself and confirm the exact words
 
-## #8 BLOCKED | Doer
+## #8 POSTABLE | Doer
 
 > It may sound trite, but today is the only time you have. It's too late for yesterday. And you can't depend on tomorrow. That's why today matters.
 >

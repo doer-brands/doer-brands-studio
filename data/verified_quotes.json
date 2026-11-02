@@ -129,10 +129,10 @@
     "practice": "Pick the one thing you've been saving for 'someday' and do the first piece of it today, before the day ends.",
     "question": "What have you been saving for someday?",
     "machine_matched": "Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "Hoping for a good future without investing in today is like a farmer waiting for a crop without ever planting any seed.",
