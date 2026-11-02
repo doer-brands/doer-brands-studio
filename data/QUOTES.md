@@ -272,7 +272,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.gutenberg.org/ebooks/15877
 - Machine check: wording matched to Project Gutenberg #15877 (Long translation); the quote is the first half of a two-sentence passage
 
-## #27 BLOCKED | Doer
+## #27 POSTABLE | Doer
 
 > Far and away the best prize that life offers is the chance to work hard at work worth doing.
 >
