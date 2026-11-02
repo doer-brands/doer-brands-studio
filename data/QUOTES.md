@@ -2,7 +2,7 @@
 
 POSTABLE = verified by a human against the primary source. BLOCKED = will never post until verified.
 
-## #0 BLOCKED | Doer
+## #0 POSTABLE | Doer
 
 > The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly…
 >

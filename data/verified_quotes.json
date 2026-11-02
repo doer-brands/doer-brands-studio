@@ -9,10 +9,10 @@
     "practice": "Do one thing today that puts you at risk of falling short. Count the attempt itself as the win.",
     "question": "What arena are you staying out of?",
     "machine_matched": "wording matched to Wikisource transcription; also compare with theodorerooseveltcenter.org",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life.",
