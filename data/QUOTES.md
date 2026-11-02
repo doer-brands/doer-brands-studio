@@ -72,7 +72,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.gutenberg.org/ebooks/15877
 - Machine check: wording matched to Project Gutenberg #15877 (Long translation)
 
-## #7 BLOCKED | Empowered
+## #7 POSTABLE | Empowered
 
 > Be a goldfish.
 >

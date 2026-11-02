@@ -114,10 +114,10 @@
     "practice": "After a mistake today, give yourself one minute to learn from it, then let it go and get back to work.",
     "question": "What mistake are you still replaying?",
     "machine_matched": "NOT machine-checked: TV dialogue. You must watch/hear the scene yourself and confirm the exact words",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "It may sound trite, but today is the only time you have. It's too late for yesterday. And you can't depend on tomorrow. That's why today matters.",
