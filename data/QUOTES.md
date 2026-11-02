@@ -88,9 +88,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 10 (Kindle location 198). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 10. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 198.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #9 BLOCKED | Doer
 
@@ -98,9 +98,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 12 (Kindle location 226). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 12. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 226.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #10 BLOCKED | Doer
 
@@ -108,9 +108,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 26 (Kindle location 427). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 2, p. 26. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 427.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: last three sentences of the highlight on p. 26; the first sentence of that highlight is omitted
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583). Edit made: last three sentences of the highlight on p. 26; the first sentence of that highlight is omitted
 
 ## #11 BLOCKED | Doer
 
@@ -118,9 +118,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 19 (Kindle location 319). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 2, p. 19. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 319.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #12 BLOCKED | Doer
 
@@ -128,9 +128,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 10 (Kindle location 189). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 10. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 189.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #13 BLOCKED | Doer
 
@@ -138,9 +138,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 15 (Kindle location 274). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 15. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 274.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #14 BLOCKED | Doer
 
@@ -148,9 +148,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 5 (Kindle location 128). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 5. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 128.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #15 BLOCKED | Bold
 
@@ -158,9 +158,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 4 (Kindle location 104). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 4. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 104.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #16 BLOCKED | Bold
 
@@ -168,9 +168,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 26 (Kindle location 427). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 2, p. 26. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 427.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: this is the first sentence of the p. 26 highlight, used alone
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583). Edit made: this is the first sentence of the p. 26 highlight, used alone
 
 ## #17 BLOCKED | Empowered
 
@@ -178,9 +178,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 2, p. 25 (Kindle location 422). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 2, p. 25. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 422.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #18 BLOCKED | Empowered
 
@@ -188,9 +188,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 3, p. 42 (Kindle location 658). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 3, p. 42. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 658.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: second sentence of a two-sentence highlight on p. 42; it is a complete sentence in the source
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583). Edit made: second sentence of a two-sentence highlight on p. 42; it is a complete sentence in the source
 
 ## #19 BLOCKED | Empowered
 
@@ -198,9 +198,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 9 (Kindle location 181). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 9. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 181.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying. Edit made: the highlight begins mid-sentence with a lowercase 'real'; capitalized to 'Real' for use as a standalone quote
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583). Edit made: the highlight begins mid-sentence with a lowercase 'real'; capitalized to 'Real' for use as a standalone quote
 
 ## #20 BLOCKED | Doer
 
@@ -208,9 +208,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 7 (Kindle location 159). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 7. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 159.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #21 BLOCKED | Appreciation
 
@@ -218,9 +218,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 3, p. 49 (Kindle location 756). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 3, p. 49. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 756.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #22 BLOCKED | Trust
 
@@ -228,9 +228,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 >
 > — John C. Maxwell, *Today Matters*
 
-- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success, Chapter 1, p. 7 (Kindle location 151). Publisher/year/edition: CONFIRM from your copy.
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 1, p. 7. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 151.
 - Source text: (none yet)
-- Machine check: Copied exactly from your Kindle highlights export. The export does NOT include publisher, year or edition, and Kindle page numbers can differ from print: confirm the edition (print editions exist from Warner Faith 2004 and Center Street 2005) and check the page number before verifying.
+- Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
 ## #23 BLOCKED | Empowered
 
@@ -286,9 +286,9 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 
 > Do what you can, with what you've got, where you are.
 >
-> — Squire Bill Widener, quoted by Theodore Roosevelt, *Theodore Roosevelt: An Autobiography*
+> — Bill Widener, *quoted in T. Roosevelt's Autobiography*
 
-- Where: Chapter IX, 'Outdoors and Indoors' (1913). Roosevelt calls it 'a bit of homely philosophy, quoted by Squire Bill Widener'
+- Where: Theodore Roosevelt: An Autobiography (1913), Chapter IX, 'Outdoors and Indoors'. Roosevelt introduces it as 'a bit of homely philosophy, quoted by Squire Bill Widener, of Widener's Valley, Virginia'.
 - Source text: https://www.gutenberg.org/ebooks/3335
 - Machine check: wording matched to Project Gutenberg #3335. Often misattributed to Roosevelt directly; he credits Widener. Decide how you want it credited
 
