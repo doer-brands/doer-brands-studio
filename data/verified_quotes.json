@@ -24,10 +24,10 @@
     "practice": "Choose the harder option once today: take the stairs, make the call, do the extra set.",
     "question": "Where have you chosen ease over effort lately?",
     "machine_matched": "wording matched to Wikisource transcription",
-    "verified": false,
-    "verified_primary_source": false,
-    "verified_by": "",
-    "verified_date": ""
+    "verified": true,
+    "verified_primary_source": true,
+    "verified_by": "Jason",
+    "verified_date": "2026-11-02"
   },
   {
     "quote": "Our lack of confidence is not the result of difficulty; the difficulty comes from our lack of confidence.",

@@ -12,7 +12,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Citizenship_in_a_Republic
 - Machine check: wording matched to Wikisource transcription; also compare with theodorerooseveltcenter.org
 
-## #1 BLOCKED | Bold
+## #1 POSTABLE | Bold
 
 > I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life.
 >
