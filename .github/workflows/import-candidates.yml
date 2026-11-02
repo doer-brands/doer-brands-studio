@@ -1,0 +1,43 @@
+name: 8 - Import candidate quotes (blocked until verified)
+# Adds every quote in data/quote_candidates.json to your attributed-quotes list as BLOCKED.
+# Quotes already in the list are skipped, and anything you already verified is left untouched.
+on:
+  workflow_dispatch: {}
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Import
+        run: |
+          python - <<'PY'
+          import json, os
+          cand = json.load(open("data/quote_candidates.json"))
+          path = "data/verified_quotes.json"
+          cur = json.load(open(path)) if os.path.exists(path) else []
+          have = {c["quote"].strip().lower() for c in cur}
+          added = 0
+          for c in cand:
+              if c["quote"].strip().lower() in have:
+                  continue
+              c.update(verified=False, verified_primary_source=False, verified_by="", verified_date="")
+              cur.append(c)
+              have.add(c["quote"].strip().lower())
+              added += 1
+          json.dump(cur, open(path, "w"), indent=1, ensure_ascii=False)
+          print(f"imported {added} new candidate(s); skipped {len(cand) - added} already present; list now has {len(cur)}")
+          PY
+          python -m rl_studio.cli quotes > /dev/null
+      - name: Save to repo
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "import candidate attributed quotes (blocked)"
+          git pull --rebase
+          git push
