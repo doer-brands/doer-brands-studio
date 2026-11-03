@@ -1,6 +1,6 @@
 {
   "id": "20261016-9dd0d1",
-  "status": "approved",
+  "status": "posted",
   "theme": "dark",
   "post": {
     "pillar": "Courageous Conversations",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-16T03:49:33.053597+00:00"
+  "created": "2026-10-16T03:49:33.053597+00:00",
+  "media_id": "18128080420655191",
+  "posted": "2026-11-03T16:49:16.828114+00:00"
 }
