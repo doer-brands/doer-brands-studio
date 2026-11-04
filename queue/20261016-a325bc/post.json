@@ -1,6 +1,6 @@
 {
   "id": "20261016-a325bc",
-  "status": "approved",
+  "status": "posted",
   "theme": "white",
   "post": {
     "pillar": "Trust",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-16T03:49:32.764405+00:00"
+  "created": "2026-10-16T03:49:32.764405+00:00",
+  "media_id": "18046696001834280",
+  "posted": "2026-11-04T16:51:11.649351+00:00"
 }
