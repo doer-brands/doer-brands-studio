@@ -1,6 +1,6 @@
 {
   "id": "20261017-516ddd",
-  "status": "approved",
+  "status": "posted",
   "theme": "white",
   "post": {
     "pillar": "Curiosity",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-17T02:41:51.278128+00:00"
+  "created": "2026-10-17T02:41:51.278128+00:00",
+  "media_id": "18129307255898289",
+  "posted": "2026-11-11T16:53:45.275332+00:00"
 }
