@@ -462,7 +462,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last sentence of the highlight; the first part, a quotation from Alfred Montapert, is omitted.
 
-## #46 BLOCKED | Trust
+## #46 POSTABLE | Trust
 
 > No executive has ever suffered because his subordinates were strong and effective.
 >
