@@ -341,3 +341,133 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Where: September 12, 1962, Houston, Texas
 - Source text: https://en.wikisource.org/wiki/We_choose_to_go_to_the_Moon
 - Machine check: wording matched to Wikisource transcription (the first 'We choose to go to the moon' is repeated for emphasis in the speech; this is the version with the full clause). Compare the JFK Library text/audio
+
+## #34 BLOCKED | Appreciation
+
+> One of the best ways to remain positive is to express gratitude and appreciation. Find at least one opportunity every day to tell someone how grateful you are.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 3, p. 59. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 894.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #35 BLOCKED | Appreciation
+
+> Thinking about the good things helps us to be grateful. Remaining grateful helps us to have a more positive attitude.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 3, p. 53. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 823.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: first two of the three sentences in the highlight (the third sentence is omitted).
+
+## #36 BLOCKED | Presence
+
+> If you want to make a positive impact, no matter how far-reaching, start at home. Treat your family members like treasures.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 6, p. 111. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1606.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last two sentences of the highlight; the first part of the highlight, a Mother Teresa anecdote, is omitted.
+
+## #37 BLOCKED | Curiosity
+
+> There is no tried-and-true formula for success that can be handed down through the generations. To succeed, we must do our own thinking.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 7, p. 131. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1853.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last two sentences of the highlight (the first sentence is omitted).
+
+## #38 BLOCKED | Doer
+
+> Neglect enough todays, and you'll experience the "someday" you've wanted to avoid!
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 5, p. 93. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1364.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #39 BLOCKED | Doer
+
+> People are funny. When they are young, they will spend their health to get wealth. Later, they will gladly pay all they have trying to get their health back.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 5, p. 87. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1268.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #40 BLOCKED | Empowered
+
+> To be successful, you can't just run on the fast track; run on your track.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 4, p. 69. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1024.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #41 BLOCKED | Empowered
+
+> To change your life, you need to change your priorities.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 4, p. 68. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1013.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last sentence of the highlight; the preceding sentences are omitted.
+
+## #42 BLOCKED | Doer
+
+> Your character is little more than the collection of choices you make and habits you cultivate every day.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 6, p. 110. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 1588.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #43 BLOCKED | Empowered
+
+> If you continually look for and embrace the positive and eliminate the negative, you'll help yourself to begin thinking more positively every day.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 3, p. 53. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 816.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
+
+## #44 BLOCKED | Doer
+
+> What you do every day in the area of thinking really matters because it sets the stage for all your actions, and it will bring you either adversity or advantage.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 7, p. 143. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 2030.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last sentence of the highlight; the earlier sentences are omitted.
+
+## #45 BLOCKED | Doer
+
+> Ideas, put into action, give an advantage.
+>
+> — John C. Maxwell, *Today Matters*
+
+- Where: Today Matters: 12 Daily Practices to Guarantee Tomorrow's Success (New York: Center Street, 2008), Chapter 7, p. 142. Kindle edition; page numbers follow the print edition (ISBN 0446529583); Kindle location 2013.
+- Source text: (none yet)
+- Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last sentence of the highlight; the first part, a quotation from Alfred Montapert, is omitted.
+
+## #46 BLOCKED | Trust
+
+> No executive has ever suffered because his subordinates were strong and effective.
+>
+> — Peter F. Drucker, *The Effective Executive*
+
+- Where: The Effective Executive (first published 1967; New York: HarperCollins e-books, October 6, 2009), Chapter 4, p. 73. Kindle edition (ISBN-10 0061983740; ISBN-13 978-0061983740).
+- Source text: (none yet)
+- Machine check: Edition, chapter and page supplied by you from your Kindle copy. NOT checked by me against the book (it is copyrighted). The wording matches Maxwell's quotation of Drucker in Today Matters (p. 76). Before verifying, compare the exact wording on p. 73 of your copy.
