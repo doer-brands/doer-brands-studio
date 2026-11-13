@@ -1,0 +1,81 @@
+name: 5b - Verify several attributed quotes at once
+# Use ONLY after you compared EACH of these quotes with its source (book, speech or episode) yourself.
+# Numbers come from data/QUOTES.md. Examples:  3 5 9   or   3,5,9   or   10-15   or   3 10-15 22
+on:
+  workflow_dispatch:
+    inputs:
+      numbers:
+        description: "Quote numbers: spaces or commas, ranges allowed (e.g. 3 10-15 22)"
+        required: true
+      your_name:
+        description: "Your name (recorded as the verifier)"
+        required: true
+        default: "Jason"
+      confirm:
+        description: "Type exactly: I CHECKED THE PRIMARY SOURCE FOR EACH"
+        required: true
+concurrency: queue
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    env:
+      NUMS: ${{ inputs.numbers }}
+      WHO: ${{ inputs.your_name }}
+      CONFIRM: ${{ inputs.confirm }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - name: Check the request
+        run: |
+          python - <<'PY'
+          import json, os, re, sys
+          if os.environ["CONFIRM"].strip() != "I CHECKED THE PRIMARY SOURCE FOR EACH":
+              sys.exit("STOPPED: the confirmation phrase must be exactly: I CHECKED THE PRIMARY SOURCE FOR EACH")
+          items = json.load(open("data/verified_quotes.json"))
+          nums = []
+          for tok in re.split(r"[,\s]+", os.environ["NUMS"].strip()):
+              if not tok:
+                  continue
+              m = re.fullmatch(r"(\d+)(?:-(\d+))?", tok)
+              if not m:
+                  sys.exit(f"STOPPED: '{tok}' is not a number or a range like 10-15")
+              a = int(m.group(1)); b = int(m.group(2) or a)
+              if b < a:
+                  sys.exit(f"STOPPED: range {tok} runs backwards")
+              nums += list(range(a, b + 1))
+          nums = sorted(set(nums))
+          todo, problems = [], []
+          for n in nums:
+              if n >= len(items):
+                  problems.append(f"#{n}: no such quote (the list has {len(items)}, numbered 0 to {len(items) - 1})"); continue
+              q = items[n]
+              if q.get("verified") is True:
+                  print(f"#{n}: already verified, skipped"); continue
+              txt = json.dumps(q)
+              if "NOT YET CONFIRMED" in txt or "CONFIRM:" in txt or "CONFIRM from" in txt:
+                  problems.append(f"#{n}: citation still has a placeholder, finish it first"); continue
+              todo.append(n)
+          if problems:
+              sys.exit("STOPPED, nothing was verified:\n  " + "\n  ".join(problems))
+          if not todo:
+              sys.exit("Nothing to do: every number you listed was already verified.")
+          open("/tmp/todo.txt", "w").write(" ".join(map(str, todo)))
+          print("Will verify:", todo)
+          PY
+      - name: Verify
+        run: |
+          for n in $(cat /tmp/todo.txt); do
+            python -m rl_studio.cli verifyquote "$n" --by "$WHO" --confirm "I CHECKED THE PRIMARY SOURCE" | tail -1
+          done
+          python -m rl_studio.cli quotes | cut -c1-90
+      - name: Save to repo
+        run: |
+          git config user.name "rl-bot"; git config user.email "rl-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "verify attributed quotes: $(cat /tmp/todo.txt)"
+          git pull --rebase
+          git push
