@@ -262,7 +262,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.gutenberg.org/ebooks/15877
 - Machine check: wording matched to Project Gutenberg #15877 (Long translation)
 
-## #26 BLOCKED | Empowered
+## #26 POSTABLE | Empowered
 
 > Take away thy opinion, and then there is taken away the complaint, 'I have been harmed.'
 >
@@ -282,7 +282,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.presidency.ucsb.edu/documents/address-the-new-york-state-agricultural-association-syracuse-ny
 - Machine check: wording matched to the American Presidency Project transcript (2 versions). NOTE: a popular variant says 'life has to offer'; that wording is NOT in the speech
 
-## #28 BLOCKED | Doer
+## #28 POSTABLE | Doer
 
 > Do what you can, with what you've got, where you are.
 >
@@ -372,7 +372,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last two sentences of the highlight; the first part of the highlight, a Mother Teresa anecdote, is omitted.
 
-## #37 BLOCKED | Curiosity
+## #37 POSTABLE | Curiosity
 
 > There is no tried-and-true formula for success that can be handed down through the generations. To succeed, we must do our own thinking.
 >
@@ -382,7 +382,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last two sentences of the highlight (the first sentence is omitted).
 
-## #38 BLOCKED | Doer
+## #38 POSTABLE | Doer
 
 > Neglect enough todays, and you'll experience the "someday" you've wanted to avoid!
 >
@@ -412,7 +412,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
 
-## #41 BLOCKED | Empowered
+## #41 POSTABLE | Empowered
 
 > To change your life, you need to change your priorities.
 >
@@ -422,7 +422,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version). Edit made: last sentence of the highlight; the preceding sentences are omitted.
 
-## #42 BLOCKED | Doer
+## #42 POSTABLE | Doer
 
 > Your character is little more than the collection of choices you make and habits you cultivate every day.
 >
@@ -432,7 +432,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export (second export, 2008 Kindle iOS version).
 
-## #43 BLOCKED | Empowered
+## #43 POSTABLE | Empowered
 
 > If you continually look for and embrace the positive and eliminate the negative, you'll help yourself to begin thinking more positively every day.
 >
