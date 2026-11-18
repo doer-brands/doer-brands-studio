@@ -19,23 +19,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #doerbrands #emotionalintelligence #managementtips
 
-## APPROVED | `20261017-b98b90` | Empowered
-
-<img src="20261017-b98b90/slide_1.png" width="240"> <img src="20261017-b98b90/slide_2.png" width="240"> <img src="20261017-b98b90/slide_3.png" width="240">
-
-> You have more say in your next step than you think.
-> 
-> “Don't wait for permission. Wait for clarity, then act.”
-> 
-> Try this today: If you're waiting on a yes, ask for it today and bring your plan with you.
-> 
-> What are you waiting for permission to do? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #empowered #personalgrowth #leadership #mindset
-
 ## APPROVED | `20261017-ce38a9` | Curiosity
 
 <img src="20261017-ce38a9/slide_1.png" width="240"> <img src="20261017-ce38a9/slide_2.png" width="240"> <img src="20261017-ce38a9/slide_3.png" width="240">
