@@ -19,23 +19,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #doerbrands #emotionalintelligence #managementtips
 
-## APPROVED | `20261017-ce38a9` | Curiosity
-
-<img src="20261017-ce38a9/slide_1.png" width="240"> <img src="20261017-ce38a9/slide_2.png" width="240"> <img src="20261017-ce38a9/slide_3.png" width="240">
-
-> The best leaders stay curious about people.
-> 
-> “Ask what it's like to work on your team. Then stay quiet long enough to hear the answer.”
-> 
-> Try this today: In your next one-on-one, ask: 'What's it like to be on this team right now?' Don't defend, explain, or fix. Just take notes.
-> 
-> What would your team say if you asked? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #teamculture #listening #managementtips
-
 ## APPROVED | `20261017-eb1181` | Doer
 
 <img src="20261017-eb1181/slide_1.png" width="240"> <img src="20261017-eb1181/slide_2.png" width="240"> <img src="20261017-eb1181/slide_3.png" width="240">
