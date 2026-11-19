@@ -1,6 +1,6 @@
 {
   "id": "20261017-eb1181",
-  "status": "approved",
+  "status": "posted",
   "theme": "dark",
   "post": {
     "pillar": "Doer",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-17T02:16:47.487100+00:00"
+  "created": "2026-10-17T02:16:47.487100+00:00",
+  "media_id": "18499951648128519",
+  "posted": "2026-11-19T22:57:57.187936+00:00"
 }
