@@ -19,22 +19,23 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #doerbrands #emotionalintelligence #managementtips
 
-## APPROVED | `20261017-eb1181` | Doer
+## PENDING | `20261120-05e43d` | Empowered
 
-<img src="20261017-eb1181/slide_1.png" width="240"> <img src="20261017-eb1181/slide_2.png" width="240"> <img src="20261017-eb1181/slide_3.png" width="240">
+<img src="20261120-05e43d/slide_1.png" width="240"> <img src="20261120-05e43d/slide_2.png" width="240"> <img src="20261120-05e43d/slide_3.png" width="240">
 
-> Doers start before they feel ready.
+> You have more say in your next step than you think.
 > 
-> “Ideas feel like progress. Only action is.”
+> “To change your life, you need to change your priorities.”
+> — John C. Maxwell, Today Matters
 > 
-> Try this today: Turn one idea you've been carrying into a first action, with a time on your calendar.
+> Try this today: List your top three priorities. Check your calendar for the week and move one thing to make room for the first one.
 > 
-> Which idea has been waiting the longest? Tell me in the comments.
+> What do your priorities say about what you've chosen? Tell me in the comments.
 > 
 > Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #doerbrands #beadoer #maninthearena #bebold #showup #consistency #leadership
+> #doerbrands #beadoer #maninthearena #consistency #discipline #endurance #empowered
 
 ## APPROVED | `20261023-188047` | Vulnerability
 
