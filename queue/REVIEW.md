@@ -37,23 +37,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #consistency #discipline #endurance #empowered
 
-## APPROVED | `20261023-188047` | Vulnerability
-
-<img src="20261023-188047/slide_1.png" width="240"> <img src="20261023-188047/slide_2.png" width="240"> <img src="20261023-188047/slide_3.png" width="240">
-
-> Going first makes it safe for everyone else.
-> 
-> “Strong leaders don't hide their gaps. They invite people to help close them.”
-> 
-> Try this today: Name one thing you're still learning and ask for help from someone on your team.
-> 
-> Where could you ask for help this week? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #servantleadership #teamculture #trust #emotionalintelligence
-
 ## APPROVED | `20261023-725e08` | Appreciation
 
 <img src="20261023-725e08/slide_1.png" width="240"> <img src="20261023-725e08/slide_2.png" width="240"> <img src="20261023-725e08/slide_3.png" width="240">
