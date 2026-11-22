@@ -1,6 +1,6 @@
 {
   "id": "20261023-903dc1",
-  "status": "approved",
+  "status": "posted",
   "theme": "white",
   "post": {
     "pillar": "Presence",
@@ -15,5 +15,7 @@
     "slide_2.png",
     "slide_3.png"
   ],
-  "created": "2026-10-23T04:35:21.145116+00:00"
+  "created": "2026-10-23T04:35:21.145116+00:00",
+  "media_id": "18146263195612290",
+  "posted": "2026-11-22T21:38:10.170154+00:00"
 }
