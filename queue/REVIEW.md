@@ -37,22 +37,23 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #consistency #discipline #endurance #empowered
 
-## APPROVED | `20261023-725e08` | Appreciation
+## PENDING | `20261122-3eab06` | Bold
 
-<img src="20261023-725e08/slide_1.png" width="240"> <img src="20261023-725e08/slide_2.png" width="240"> <img src="20261023-725e08/slide_3.png" width="240">
+<img src="20261122-3eab06/slide_1.png" width="240"> <img src="20261122-3eab06/slide_2.png" width="240"> <img src="20261122-3eab06/slide_3.png" width="240">
 
-> People do better work when they know it matters.
+> Bold is a decision, not a feeling.
 > 
-> “Everyone wants to know their work matters. Tell them.”
+> “I wish to preach, not the doctrine of ignoble ease, but the doctrine of the strenuous life.”
+> — Theodore Roosevelt, The Strenuous Life
 > 
-> Try this today: Connect one person's task to the larger outcome it supports. Say it out loud.
+> Try this today: Choose the harder option once today: take the stairs, make the call, do the extra set.
 > 
-> Does everyone on your team know why their work matters? Tell me in the comments.
+> Where have you chosen ease over effort lately? Tell me in the comments.
 > 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
-> #relationalleadership #leadership #leadershipdevelopment #trust #communication #teamculture #emotionalintelligence
+> #doerbrands #beadoer #maninthearena #consistency #entrepreneur #personalgrowth #bebold
 
 ## APPROVED | `20261023-903dc1` | Presence
 
