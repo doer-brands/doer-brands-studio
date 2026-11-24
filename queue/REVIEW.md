@@ -54,20 +54,3 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
 > #doerbrands #beadoer #maninthearena #consistency #entrepreneur #personalgrowth #bebold
-
-## APPROVED | `20261023-903dc1` | Presence
-
-<img src="20261023-903dc1/slide_1.png" width="240"> <img src="20261023-903dc1/slide_2.png" width="240"> <img src="20261023-903dc1/slide_3.png" width="240">
-
-> Attention is the rarest gift a leader gives.
-> 
-> “Five undistracted minutes beat an hour of divided attention.”
-> 
-> Try this today: Block five minutes with someone today. No screens, no multitasking, no agenda except them.
-> 
-> Who gets your five minutes today? Tell me in the comments.
-> 
-> Save this for your next 1:1 and send it to a leader you respect.
-> Follow @doer_brands for daily relational leadership.
-> 
-> #relationalleadership #leadership #leadershipdevelopment #communication #leadershipcoaching #managementtips #emotionalintelligence
