@@ -22,7 +22,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/The_Strenuous_Life
 - Machine check: wording matched to Wikisource transcription
 
-## #2 BLOCKED | Empowered
+## #2 POSTABLE | Empowered
 
 > Our lack of confidence is not the result of difficulty; the difficulty comes from our lack of confidence.
 >
@@ -42,7 +42,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13
 - Machine check: wording matched to Gummere translation on Wikisource
 
-## #4 BLOCKED | Doer
+## #4 POSTABLE | Doer
 
 > While we are postponing, life speeds by.
 >
@@ -52,7 +52,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
 - Machine check: wording matched to Gummere translation on Wikisource
 
-## #5 BLOCKED | Empowered
+## #5 POSTABLE | Empowered
 
 > No longer talk at all about the kind of man that a good man ought to be, but be such.
 >
@@ -62,7 +62,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.gutenberg.org/ebooks/15877
 - Machine check: wording matched to Project Gutenberg #15877 (Long translation)
 
-## #6 BLOCKED | Doer
+## #6 POSTABLE | Doer
 
 > In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being.
 >
@@ -92,7 +92,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
-## #9 BLOCKED | Doer
+## #9 POSTABLE | Doer
 
 > Hoping for a good future without investing in today is like a farmer waiting for a crop without ever planting any seed.
 >
@@ -102,7 +102,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
-## #10 BLOCKED | Doer
+## #10 POSTABLE | Doer
 
 > The bookends of success are starting and finishing. Decisions help us start. Discipline helps us finish.
 >
@@ -112,7 +112,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583). Edit made: last three sentences of the highlight on p. 26; the first sentence of that highlight is omitted
 
-## #11 BLOCKED | Doer
+## #11 POSTABLE | Doer
 
 > You will never change your life until you change something you do daily.
 >
@@ -122,7 +122,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
-## #12 BLOCKED | Doer
+## #12 POSTABLE | Doer
 
 > Growth comes from making decisions and following through on them.
 >
@@ -132,7 +132,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
-## #13 BLOCKED | Doer
+## #13 POSTABLE | Doer
 
 > Successful people make right decisions early and manage those decisions daily.
 >
@@ -232,7 +232,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: (none yet)
 - Machine check: Text copied exactly from your Kindle highlights export. Edition details supplied by you (Center Street, 11/16/2008, Kindle 'real page numbers' from print ISBN 0446529583).
 
-## #23 BLOCKED | Empowered
+## #23 POSTABLE | Empowered
 
 > When a man does not know what harbour he is making for, no wind is the right wind.
 >
@@ -242,7 +242,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71
 - Machine check: wording matched to the Gummere translation on Wikisource
 
-## #24 BLOCKED | Doer
+## #24 POSTABLE | Doer
 
 > Lay hold of today's task, and you will not need to depend so much upon tomorrow's.
 >
@@ -252,7 +252,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1
 - Machine check: wording matched to Gummere on Wikisource; spelling modernized from 'to-day' and 'to-morrow's', otherwise identical
 
-## #25 BLOCKED | Empowered
+## #25 POSTABLE | Empowered
 
 > Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.
 >
@@ -302,7 +302,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://www.abrahamlincolnonline.org/lincoln/speeches/cooper.htm
 - Machine check: wording matched to abrahamlincolnonline.org transcript (Basler); the source shows it in capitals, set here in normal case. Compare a second source such as the Library of Congress
 
-## #30 BLOCKED | Accountability
+## #30 POSTABLE | Accountability
 
 > With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in.
 >
@@ -332,7 +332,7 @@ POSTABLE = verified by a human against the primary source. BLOCKED = will never 
 - Source text: https://en.wikisource.org/wiki/Franklin_Roosevelt%27s_First_Inaugural_Address
 - Machine check: wording matched to Wikisource transcription; compare the FDR Presidential Library text. Opening word capitalized; the quote is part of a longer sentence
 
-## #33 BLOCKED | Bold
+## #33 POSTABLE | Bold
 
 > We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.
 >
