@@ -2,7 +2,7 @@
 
 Pending = needs your approval. Approved = will post. Use the **Approve posts** action.
 
-## PENDING | `20261117-a0f840` | Accountability
+## APPROVED | `20261117-a0f840` | Accountability
 
 <img src="20261117-a0f840/slide_1.png" width="240"> <img src="20261117-a0f840/slide_2.png" width="240"> <img src="20261117-a0f840/slide_3.png" width="240">
 
@@ -19,7 +19,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #listening #doerbrands #emotionalintelligence #managementtips
 
-## PENDING | `20261120-05e43d` | Empowered
+## APPROVED | `20261120-05e43d` | Empowered
 
 <img src="20261120-05e43d/slide_1.png" width="240"> <img src="20261120-05e43d/slide_2.png" width="240"> <img src="20261120-05e43d/slide_3.png" width="240">
 
@@ -37,7 +37,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #consistency #discipline #endurance #empowered
 
-## PENDING | `20261122-3eab06` | Bold
+## APPROVED | `20261122-3eab06` | Bold
 
 <img src="20261122-3eab06/slide_1.png" width="240"> <img src="20261122-3eab06/slide_2.png" width="240"> <img src="20261122-3eab06/slide_3.png" width="240">
 
@@ -55,7 +55,7 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #doerbrands #beadoer #maninthearena #consistency #entrepreneur #personalgrowth #bebold
 
-## PENDING | `20261125-f57645` | Doer
+## APPROVED | `20261125-f57645` | Doer
 
 <img src="20261125-f57645/slide_1.png" width="240"> <img src="20261125-f57645/slide_2.png" width="240"> <img src="20261125-f57645/slide_3.png" width="240">
 
