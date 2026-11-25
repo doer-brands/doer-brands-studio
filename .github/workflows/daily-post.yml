@@ -3,7 +3,7 @@ name: 3 - Daily post
 # Secrets needed: IG_USER_ID, IG_ACCESS_TOKEN  (optional: ANTHROPIC_API_KEY)
 on:
   schedule:
-    - cron: "0 16 * * *"   # 16:00 UTC = 9am Arizona / 12pm US Eastern (EDT). Change the hour to taste.
+    - cron: "37 16 * * *"   # 16:37 UTC = 9:37am Arizona / 12:37pm US Eastern (EDT). Change the hour to taste.
   workflow_dispatch:
     inputs:
       dry_run:
