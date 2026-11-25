@@ -53,23 +53,6 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > 
 > #relationalleadership #leadership #leadershipdevelopment #teamculture #leadershipcoaching #emotionalintelligence #servantleadership
 
-## PENDING | `20261125-ab65f2` | Bold
-
-<img src="20261125-ab65f2/slide_1.png" width="240"> <img src="20261125-ab65f2/slide_2.png" width="240"> <img src="20261125-ab65f2/slide_3.png" width="240">
-
-> Bold is a decision, not a feeling.
-> 
-> “Your first attempt doesn't have to be good. It has to exist.”
-> 
-> Try this today: Make a rough first version of something you've been polishing in your head. Ship it, share it, or simply finish it today.
-> 
-> What rough draft is waiting for you? Tell me in the comments.
-> 
-> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
-> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
-> 
-> #doerbrands #beadoer #maninthearena #consistency #bebold #discipline #mindset
-
 ## PENDING | `20261125-cc64e5` | Accountability
 
 <img src="20261125-cc64e5/slide_1.png" width="240"> <img src="20261125-cc64e5/slide_2.png" width="240"> <img src="20261125-cc64e5/slide_3.png" width="240">
@@ -156,6 +139,23 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands for daily relational leadership.
 > 
 > #relationalleadership #leadership #leadershipdevelopment #leadershipcoaching #doerbrands #managementtips #trust
+
+## APPROVED | `20261125-ab65f2` | Bold
+
+<img src="20261125-ab65f2/slide_1.png" width="240"> <img src="20261125-ab65f2/slide_2.png" width="240"> <img src="20261125-ab65f2/slide_3.png" width="240">
+
+> Bold is a decision, not a feeling.
+> 
+> “Your first attempt doesn't have to be good. It has to exist.”
+> 
+> Try this today: Make a rough first version of something you've been polishing in your head. Ship it, share it, or simply finish it today.
+> 
+> What rough draft is waiting for you? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #consistency #bebold #discipline #mindset
 
 ## APPROVED | `20261125-cc5874` | Doer
 
