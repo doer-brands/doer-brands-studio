@@ -36,13 +36,20 @@ def _client():
         return None
 
 
-def _ask(client, system, user, max_tokens=2000):
+def _ask(client, system, user, max_tokens=12000, effort="medium"):
+    """One Claude call. Newer models reason before answering and that reasoning counts toward
+    max_tokens, so keep the limit generous. effort is passed via extra_body (works on any SDK version)."""
     r = client.messages.create(
-        model=os.environ.get("RL_MODEL", "claude-sonnet-5-5"),
+        model=os.environ.get("RL_MODEL", "claude-opus-5-5"),
         max_tokens=max_tokens, system=system,
-        messages=[{"role": "user", "content": user}])
+        messages=[{"role": "user", "content": user}],
+        extra_body={"output_config": {"effort": effort}})
+    if getattr(r, "stop_reason", "") == "refusal":
+        raise RuntimeError("model declined this request")
     text = "".join(b.text for b in r.content if getattr(b, "type", "") == "text")
     m = re.search(r"(\[.*\]|\{.*\})", text, re.S)
+    if not m:
+        raise RuntimeError(f"no JSON in reply (stop_reason={getattr(r, 'stop_reason', '?')})")
     return json.loads(m.group(1))
 
 
@@ -71,7 +78,7 @@ def llm_critic(client, cands):
               "specific and useful, emotionally resonant, and not clichéd. "
               "Reply JSON: {\"index\": <int>, \"reason\": \"...\"}\n" + json.dumps(cands))
     try:
-        r = _ask(client, "You are a rigorous editor of leadership content.", prompt, 500)
+        r = _ask(client, "You are a rigorous editor of leadership content.", prompt, 4000, "low")
         return cands[int(r["index"])]
     except Exception:
         return cands[0]
@@ -96,7 +103,7 @@ def pick_pillars(cfg, history, n):
 
 def make_posts(cfg, n, source="auto"):
     history = read_json(DATA / "history.json", [])
-    bank = read_json(DATA / "quote_bank.json", [])
+    bank = read_json(DATA / "quote_bank.json", []) + read_json(DATA / "quote_bank_extra.json", [])
     voice = "\n".join((DATA / f).read_text() for f in ("voice.md", "voice_doer.md") if (DATA / f).exists())
     used = [h["quote"] for h in history]
     limit = cfg["posting"]["similarity_limit"]
