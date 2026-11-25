@@ -54,3 +54,21 @@ Pending = needs your approval. Approved = will post. Use the **Approve posts** a
 > Follow @doer_brands. Be bold. Be empowered. Be a DOER.
 > 
 > #doerbrands #beadoer #maninthearena #consistency #entrepreneur #personalgrowth #bebold
+
+## PENDING | `20261125-f57645` | Doer
+
+<img src="20261125-f57645/slide_1.png" width="240"> <img src="20261125-f57645/slide_2.png" width="240"> <img src="20261125-f57645/slide_3.png" width="240">
+
+> Doers start before they feel ready.
+> 
+> “Do what you can, with what you've got, where you are.”
+> — Bill Widener, quoted in T. Roosevelt's Autobiography
+> 
+> Try this today: List what you have right now: time, tools, people. Pick one action you can take with it today, without waiting for more.
+> 
+> What can you do today with what you have? Tell me in the comments.
+> 
+> Save this in your journal, or share it with a trusted advisor or accountability partner who will keep you moving.
+> Follow @doer_brands. Be bold. Be empowered. Be a DOER.
+> 
+> #doerbrands #beadoer #maninthearena #leadership #entrepreneur #empowered #discipline
